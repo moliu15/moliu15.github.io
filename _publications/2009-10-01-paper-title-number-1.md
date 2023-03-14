@@ -1,6 +1,6 @@
 ---
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
+
 ---
 
 Pricing under the Generalized Markov Chain Choice Model: Learning through Large-scale Click Behaviors. \\
