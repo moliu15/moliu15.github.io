@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Mo Liu"
   avatar           : "headshot_MoLiu.jpg"
-  bio              : "Ph.D. candidate"
+  bio              : " Ph.D. candidate"
   location         : "UC Berkeley"
   employer         :
   pubmed           : 
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/mo-liu-1b042415a/"
   orcid            : 
   pinterest        :
   soundcloud       :
