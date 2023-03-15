@@ -14,7 +14,7 @@ author_profile: true
 	* Formulated the problem as a Markov Decision Process, and solve it by dynamic programming 
 	* Compared the new strategy with the benchmarks and estimate the improvement
 
-* **IBM.com** AI for transportation. Yorktown Heights, NY. _Manager:_ _Markus_ _Ettl_\\
+* **IBM.com** AI for transportation. Yorktown Heights, NY. _Manager: Markus Ettl_\\
 <ins>Research Intern</ins> May 2022 - Aug 2022
 
 

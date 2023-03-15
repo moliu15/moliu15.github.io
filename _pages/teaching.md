@@ -9,7 +9,7 @@ I have been a Graduate Student Intructor (GSI) for the following courses.
 
 * IEOR 250 <ins>Introduction to Production Planning and Logistics Models.</ins> 2020 Fall. _Graduate level courses_
 
-* IEOR 142 <ins>Introduction to Machine Learning and Data Analytics. 2021 Spring.</ins> _Undergraduate level courses_
+* IEOR 142 <ins>Introduction to Machine Learning and Data Analytics.</ins> 2021 Spring. _Undergraduate level courses_
 
 
 * IEOR 240 <ins>Optimizaton Analytics.</ins> 2022 Fall. _Graduate level courses for Master of Analytics and Master of Engineering_

@@ -22,3 +22,9 @@ author_profile: true
 
 [5] Importance weighted active learning in the newsvendor problem\\
 **Mo Liu**, Paul Grigas, Zuo-jun Max Shen.
+
+
+## Patent in application
+
+MACHINE LEARNING AND OPTIMIZATION WITH PARTIALLY OBSERVABLE TIME SERIES DATA\\
+Zachary Xue, **Mo Liu**, Markus Ettl, Shivaram Subramanian
