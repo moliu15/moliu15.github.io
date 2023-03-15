@@ -28,3 +28,9 @@ author_profile: true
 
 MACHINE LEARNING AND OPTIMIZATION WITH PARTIALLY OBSERVABLE TIME SERIES DATA\\
 Zachary Xue, **Mo Liu**, Markus Ettl, Shivaram Subramanian
+
+
+## Invited Talks
+
+INFORMS Annual Meeting, End-to-End Deep Learning for the Inventory Management with Fixed Ordering Cost, 2020\\
+INFORMS Annual Meeting, Pricing under the Generalized Markov Chain Choice Model: Learning through Large-scale Click Behavior, 2020
