@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: single
 title: "Industry"
 permalink: /industry/
 author_profile: false
