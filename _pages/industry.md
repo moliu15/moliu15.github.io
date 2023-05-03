@@ -2,7 +2,7 @@
 layout: archive
 title: "Industry"
 permalink: /industry/
-author_profile: true
+author_profile: false
 ---
 
 * **IBM.com** AI for transportation. Yorktown Heights, NY. _Manager: Markus Ettl_\\
