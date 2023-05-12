@@ -14,8 +14,8 @@ author_profile: false
 [2] Pricing under the Generalized Markov Chain Choice Model: Learning through Large-scale Click Behaviors. \\
 **Mo Liu**, Junyu Cao, Zuo-jun Max Shen. [link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4158054)
 
-[3] Active Learning in the Predict-then-Optimize Framework\\
-**Mo Liu**, Paul Grigas, Heyuan Liu, Zuo-jun Max Shen. _(Available upon request)_
+[3] Active Learning in the Predict-then-Optimize Framework: A Margin-Based Approach\\
+**Mo Liu**, Paul Grigas, Heyuan Liu, Zuo-jun Max Shen. [link](http://arxiv.org/abs/2305.06584)
 
 [4] Personalized Incentive for Active Label Acquisition in the Assortment Optimization and Product Design\\
 **Mo Liu**, Junyu Cao, Zuo-jun Max Shen. _(Available upon request)_
