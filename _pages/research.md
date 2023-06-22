@@ -17,8 +17,8 @@ author_profile: false
 [3] Active Learning in the Predict-then-Optimize Framework: A Margin-Based Approach\\
 **Mo Liu**, Paul Grigas, Heyuan Liu, Zuo-jun Max Shen. [link](http://arxiv.org/abs/2305.06584)
 
-[4] Personalized Incentive for Active Label Acquisition in the Assortment Optimization and Product Design\\
-**Mo Liu**, Junyu Cao, Zuo-jun Max Shen. _(Available upon request)_
+[4] Personalized Incentive for Active Label Acquisition in the Assortment Optimization\\
+**Mo Liu**, Junyu Cao, Zuo-jun Max Shen. [link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4487888)
 
 [5] Importance weighted active learning in the newsvendor problem\\
 **Mo Liu**, Paul Grigas, Zuo-jun Max Shen.
@@ -33,4 +33,6 @@ Zachary Xue, **Mo Liu**, Markus Ettl, Shivaram Subramanian
 ## Invited Talks
 
 INFORMS Annual Meeting, End-to-End Deep Learning for the Inventory Management with Fixed Ordering Cost, 2020\\
-INFORMS Annual Meeting, Pricing under the Generalized Markov Chain Choice Model: Learning through Large-scale Click Behavior, 2020
+INFORMS Annual Meeting, Pricing under the Generalized Markov Chain Choice Model: Learning through Large-scale Click Behavior, 2022\\
+MSOM Conference, Personalized Incentive for Active Label Acquisition in the Assortment Optimization, 2023\\
+ICSP, Active Learning in the Predict-then-Optimize Framework: A Margin-Based Approach, 2023
