@@ -20,7 +20,7 @@ author_profile: false
 [4] Personalized Incentive for Active Label Acquisition in the Assortment Optimization\\
 **Mo Liu**, Junyu Cao, Zuo-jun Max Shen. [link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4487888)
 
-[5] Importance weighted active learning in the newsvendor problem\\
+[5] Importance-Weighted Active Learning for Contextual Stochastic Optimization\\
 **Mo Liu**, Paul Grigas, Zuo-jun Max Shen.
 
 
