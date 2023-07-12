@@ -11,7 +11,7 @@ redirect_from:
 About me
 ======
 
-Hi! I am Mo Liu, a fourth-year Ph.D. candidate in the Department of Industrial Engineering and Operations Research at the University of California, Berkeley. I am advised by [Zuo-Jun (Max) Shen](https://shen.ieor.berkeley.edu/). I also work with [Paul Grigas](https://grigas.ieor.berkeley.edu/). Prior to joining Berkeley, I received my B.S. degree in Industrial Engineering from [Tsinghua University](https://www.tsinghua.edu.cn/en/) in 2019.
+Hi! I am Mo Liu, a fifth-year Ph.D. candidate in the Department of Industrial Engineering and Operations Research at the University of California, Berkeley. I am advised by [Zuo-Jun (Max) Shen](https://shen.ieor.berkeley.edu/). I am also fortunate to work with [Paul Grigas](https://grigas.ieor.berkeley.edu/). Prior to joining Berkeley, I received my B.S. degree in Industrial Engineering from [Tsinghua University](https://www.tsinghua.edu.cn/en/) in 2019.
 
 
 Research Interest
