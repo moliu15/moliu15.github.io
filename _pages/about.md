@@ -17,7 +17,7 @@ Hi! I am Mo Liu, a fourth-year Ph.D. candidate in the Department of Industrial E
 Research Interest
 ======
 
-I am interested in decision-based learning: settings where a machine learning model is built to make decisions in the downstream optimization problem. In this setting, the prediction models are evaluated by the cost of the downstream problem, instead of the prediction errors. Particularly, I am interested in the setting where the labels of the samples are expensive to acquire, requiring us to smartly select samples by exploiting the structure of the downstream problem. 
+I am interested in decision-focused learning: settings where a machine learning model is built to make decisions in the downstream optimization problem. In this setting, the prediction models are evaluated by the cost of the downstream problem, instead of the prediction errors. Particularly, I am interested in the setting where the labels of the samples are expensive to acquire, requiring us to smartly select samples by exploiting the structure of the downstream problem. 
 
 * In methodologies, I am interested in statistical learning, active learning, and predict-then-optimize.
 
