@@ -5,7 +5,7 @@ permalink: /teaching/
 author_profile: false
 ---
 
-I have been a Graduate Student Intructor (GSI) for the following courses. Lateset Teaching Score:  <ins>6.56 / 7</ins>
+I have been a Graduate Student Intructor (GSI) for the following courses. Latest Teaching Score:  <ins>6.56 / 7</ins>
 
 * IEOR 250 <ins>Introduction to Production Planning and Logistics Models.</ins> 2020 Fall. _Graduate level courses_
 
