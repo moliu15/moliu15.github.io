@@ -17,3 +17,7 @@ I have been a Graduate Student Intructor (GSI) for the following courses. Latest
 
 
 * IEOR 242 <ins>Machine Learning and Data Analytics.</ins> 2023 Spring. _Graduate level courses for Master of Analytics and Master of Engineering_, **Lead weeekly discussions**
+
+
+* IEOR 240 <ins>Optimization Analytics.</ins> 2023 Fall. _Graduate level courses for Master of Analytics and Master of Engineering_, **Lead weeekly discussions**
+
