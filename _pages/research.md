@@ -39,7 +39,7 @@ Purdue Operations Conference, _Active Label Acquisition with Personalized Incent
 INFORMS Workshop on Data Science 2023, _Active Learning in the Predict-then-Optimize Framework: A Margin-Based Approach_, <ins>Oct 14, 2023</ins>\\
 Service Science Student Competition at INFORMS, _Pricing under the Generalized Markov Chain Choice Model: Learning through Large-scale Click Behaviors_, <ins>MB63 (10:45am-noon), Monday, October 16</ins>\\
 INFORMS Talk, _Active Label Acquisition With Personalized Incentives In Assortment Optimization_,
-<ins>CC-North 122A, Tuesday Oct 17, 2023 2:15 PM - 3:30 PM</ins>\\
+<ins>CC-North 122A, Tuesday Oct 17, 2023 2:15 PM - 3:30 PM</ins>
 
 
 ## Selected Talks
@@ -48,7 +48,7 @@ YinzOR, Pricing under the Generalized Markov Chain Choice Model: Learning throug
 ICSP, Active Learning in the Predict-then-Optimize Framework: A Margin-Based Approach, July, 2023\\
 MSOM Conference, Personalized Incentive for Active Label Acquisition in the Assortment Optimization, June, 2023\\
 INFORMS Annual Meeting, Pricing under the Generalized Markov Chain Choice Model: Learning through Large-scale Click Behavior, Oct, 2022\\
-INFORMS Annual Meeting, End-to-End Deep Learning for the Inventory Management with Fixed Ordering Cost, Oct, 2020\\
+INFORMS Annual Meeting, End-to-End Deep Learning for the Inventory Management with Fixed Ordering Cost, Oct, 2020
 
 
 ## Patent in application
