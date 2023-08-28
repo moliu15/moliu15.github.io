@@ -30,10 +30,6 @@ author_profile: false
 **Mo Liu**, Paul Grigas, Zuo-jun Max Shen.
 
 
-## Patent in application
-
-Machine Learning And Optimization With Partially Observable Time Series Data\\
-Zachary Xue, **Mo Liu**, Markus Ettl, Shivaram Subramanian
 
 
 
@@ -55,3 +51,7 @@ INFORMS Annual Meeting, Pricing under the Generalized Markov Chain Choice Model:
 INFORMS Annual Meeting, End-to-End Deep Learning for the Inventory Management with Fixed Ordering Cost, Oct, 2020\\
 
 
+## Patent in application
+
+Machine Learning And Optimization With Partially Observable Time Series Data\\
+Zachary Xue, **Mo Liu**, Markus Ettl, Shivaram Subramanian
