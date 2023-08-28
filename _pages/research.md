@@ -9,10 +9,15 @@ author_profile: false
 
 
 [1] Pricing under the Generalized Markov Chain Choice Model: Learning through Large-scale Click Behaviors. \\
-**Mo Liu**, Junyu Cao, Zuo-jun Max Shen. Under Review at _Operations Research_. [link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4158054)
+**Mo Liu**, Junyu Cao, Zuo-jun Max Shen. Under Review at _Operations Research_. [link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4158054)\\
+**Finalist at 2023 Service Science Student Competition**\\
+**Fan Favoriate Flash Talk at [YinzOR 2023](https://yinzor.cmuinforms.org/)**
+
 
 [2] Active Learning in the Predict-then-Optimize Framework: A Margin-Based Approach\\
-**Mo Liu**, Paul Grigas, Heyuan Liu, Zuo-jun Max Shen. Under Review at _Management Science_. [link](http://arxiv.org/abs/2305.06584)
+**Mo Liu**, Paul Grigas, Heyuan Liu, Zuo-jun Max Shen. Under Review at _Management Science_. [link](http://arxiv.org/abs/2305.06584)\\
+**Second Place Poster Prize at [YinzOR 2023](https://yinzor.cmuinforms.org/)**
+
 
 [3] Active Label Acquisition with Personalized Incentives in the Assortment Optimization\\
 **Mo Liu**, Junyu Cao, Zuo-jun Max Shen. Under Review at _Management Science_. [link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4487888)
@@ -27,13 +32,26 @@ author_profile: false
 
 ## Patent in application
 
-MACHINE LEARNING AND OPTIMIZATION WITH PARTIALLY OBSERVABLE TIME SERIES DATA\\
+Machine Learning And Optimization With Partially Observable Time Series Data\\
 Zachary Xue, **Mo Liu**, Markus Ettl, Shivaram Subramanian
 
 
-## Invited Talks
 
-INFORMS Annual Meeting, End-to-End Deep Learning for the Inventory Management with Fixed Ordering Cost, 2020\\
-INFORMS Annual Meeting, Pricing under the Generalized Markov Chain Choice Model: Learning through Large-scale Click Behavior, 2022\\
-MSOM Conference, Personalized Incentive for Active Label Acquisition in the Assortment Optimization, 2023\\
-ICSP, Active Learning in the Predict-then-Optimize Framework: A Margin-Based Approach, 2023
+## Upcoming Talks
+
+Purdue Operations Conference, _Active Label Acquisition with Personalized Incentives in the Assortment Optimization_, <ins>Sept. 9, 2023<ins>\\
+INFORMS Workshop on Data Science 2023, _Active Learning in the Predict-then-Optimize Framework: A Margin-Based Approach_, <ins>Oct 14, 2023<ins>\\
+Service Science Student Competition at INFORMS, _Pricing under the Generalized Markov Chain Choice Model: Learning through Large-scale Click Behaviors_, <ins>MB63 (10:45am-noon), Monday, October 16<ins>\\
+INFORMS Talk, _Active Label Acquisition With Personalized Incentives In Assortment Optimization_,
+<ins>CC-North 122A, Tuesday Oct 17, 2023 2:15 PM - 3:30 PM<ins>\\
+
+
+## Selected Talks
+
+YinzOR, Pricing under the Generalized Markov Chain Choice Model: Learning through Large-scale Click Behaviors, August, 2023\\
+ICSP, Active Learning in the Predict-then-Optimize Framework: A Margin-Based Approach, July, 2023\\
+MSOM Conference, Personalized Incentive for Active Label Acquisition in the Assortment Optimization, June, 2023\\
+INFORMS Annual Meeting, Pricing under the Generalized Markov Chain Choice Model: Learning through Large-scale Click Behavior, Oct, 2022\\
+INFORMS Annual Meeting, End-to-End Deep Learning for the Inventory Management with Fixed Ordering Cost, Oct, 2020\\
+
+
