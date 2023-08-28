@@ -35,11 +35,11 @@ author_profile: false
 
 ## Upcoming Talks
 
-Purdue Operations Conference, _Active Label Acquisition with Personalized Incentives in the Assortment Optimization_, <ins>Sept. 9, 2023<ins>\\
-INFORMS Workshop on Data Science 2023, _Active Learning in the Predict-then-Optimize Framework: A Margin-Based Approach_, <ins>Oct 14, 2023<ins>\\
-Service Science Student Competition at INFORMS, _Pricing under the Generalized Markov Chain Choice Model: Learning through Large-scale Click Behaviors_, <ins>MB63 (10:45am-noon), Monday, October 16<ins>\\
+Purdue Operations Conference, _Active Label Acquisition with Personalized Incentives in the Assortment Optimization_, <ins>Sept. 9, 2023</ins>\\
+INFORMS Workshop on Data Science 2023, _Active Learning in the Predict-then-Optimize Framework: A Margin-Based Approach_, <ins>Oct 14, 2023</ins>\\
+Service Science Student Competition at INFORMS, _Pricing under the Generalized Markov Chain Choice Model: Learning through Large-scale Click Behaviors_, <ins>MB63 (10:45am-noon), Monday, October 16</ins>\\
 INFORMS Talk, _Active Label Acquisition With Personalized Incentives In Assortment Optimization_,
-<ins>CC-North 122A, Tuesday Oct 17, 2023 2:15 PM - 3:30 PM<ins>\\
+<ins>CC-North 122A, Tuesday Oct 17, 2023 2:15 PM - 3:30 PM</ins>\\
 
 
 ## Selected Talks
