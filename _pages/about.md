@@ -11,7 +11,7 @@ redirect_from:
 About me
 ======
 
-Hi! I am Mo Liu, a fifth-year Ph.D. candidate in the Department of Industrial Engineering and Operations Research at the University of California, Berkeley. I am advised by [Zuo-Jun (Max) Shen](https://shen.ieor.berkeley.edu/). I am also fortunate to work with [Paul Grigas](https://grigas.ieor.berkeley.edu/). Prior to joining Berkeley, I received my B.S. degree in Industrial Engineering from [Tsinghua University](https://www.tsinghua.edu.cn/en/) in 2019.
+Hi! I am Mo Liu, a fifth-year Ph.D. candidate in the Department of [Industrial Engineering and Operations Research](https://ieor.berkeley.edu/) at the University of California, Berkeley. I am advised by [Zuo-Jun (Max) Shen](https://shen.ieor.berkeley.edu/). I am also fortunate to work with [Paul Grigas](https://grigas.ieor.berkeley.edu/). Prior to joining Berkeley, I received my B.S. degree in Industrial Engineering from [Tsinghua University](https://www.tsinghua.edu.cn/en/) in 2019.
 
 
 Research Interest
@@ -23,8 +23,30 @@ My research interests include data-driven decision making and machine learning. 
 
 * In applications, I am interested in revenue management, pricing, supply chain management and healthcare.
 
+------
 
+Upcoming Talks
+======
+
+I am on the 2023-2024 academic job market. Below are my upcoming talks.
  
+
+## Upcoming Talks
+
+Purdue Operations Conference\\
+  * _Title_: Active Label Acquisition with Personalized Incentives in the Assortment Optimization\\
+  * _Time_: <ins>Sept. 9, 2023</ins>\\
+
+INFORMS Workshop on Data Science 2023\\
+  * _Title_: Active Learning in the Predict-then-Optimize Framework: A Margin-Based Approach\\
+  * _Time_: <ins>Oct 14, 2023</ins>\\
+INFORMS Service Science Student Competition 2023\\
+  * _Title_: Pricing under the Generalized Markov Chain Choice Model: Learning through Large-scale Click Behaviors\\
+  * _Time_: <ins>MB63 (10:45am-noon), Monday, October 16</ins>\\
+INFORMS Annual Meeting Talk\\
+  * _Title_: Active Label Acquisition With Personalized Incentives In Assortment Optimization \\
+  * _Time_: CC-North 122A, Tuesday Oct 17, 2023 2:15 PM - 3:30 PM</ins>
+
 
 
 Contact

@@ -30,28 +30,22 @@ author_profile: false
 **Mo Liu**, Paul Grigas, Zuo-jun Max Shen.
 
 
-
-
-
-## Upcoming Talks
-
-Purdue Operations Conference, _Active Label Acquisition with Personalized Incentives in the Assortment Optimization_, <ins>Sept. 9, 2023</ins>\\
-INFORMS Workshop on Data Science 2023, _Active Learning in the Predict-then-Optimize Framework: A Margin-Based Approach_, <ins>Oct 14, 2023</ins>\\
-Service Science Student Competition at INFORMS, _Pricing under the Generalized Markov Chain Choice Model: Learning through Large-scale Click Behaviors_, <ins>MB63 (10:45am-noon), Monday, October 16</ins>\\
-INFORMS Talk, _Active Label Acquisition With Personalized Incentives In Assortment Optimization_,
-<ins>CC-North 122A, Tuesday Oct 17, 2023 2:15 PM - 3:30 PM</ins>
-
-
-## Selected Talks
-
-YinzOR, Pricing under the Generalized Markov Chain Choice Model: Learning through Large-scale Click Behaviors, August, 2023\\
-ICSP, Active Learning in the Predict-then-Optimize Framework: A Margin-Based Approach, July, 2023\\
-MSOM Conference, Personalized Incentive for Active Label Acquisition in the Assortment Optimization, June, 2023\\
-INFORMS Annual Meeting, Pricing under the Generalized Markov Chain Choice Model: Learning through Large-scale Click Behavior, Oct, 2022\\
-INFORMS Annual Meeting, End-to-End Deep Learning for the Inventory Management with Fixed Ordering Cost, Oct, 2020
-
-
 ## Patent in application
 
 Machine Learning And Optimization With Partially Observable Time Series Data\\
 Zachary Xue, **Mo Liu**, Markus Ettl, Shivaram Subramanian
+
+
+
+
+## Selected Talks
+
+* CMU YinzOR Student Competition, Pricing under the Generalized Markov Chain Choice Model: Learning through Large-scale Click Behaviors, August, 2023\\
+* International Conference Stochastic Programming, Active Learning in the Predict-then-Optimize Framework: A Margin-Based Approach, July, 2023\\
+* MSOM Conference, Personalized Incentive for Active Label Acquisition in the Assortment Optimization, June, 2023\\
+* IBM Research Intern Talk, Active Learning in the Predict-then-Optimize Framework: A Margin-Based Approach, June, 2022\\
+* INFORMS Annual Meeting, Pricing under the Generalized Markov Chain Choice Model: Learning through Large-scale Click Behavior, Oct, 2022\\
+* INFORMS Annual Meeting, End-to-End Deep Learning for the Inventory Management with Fixed Ordering Cost, Oct, 2020
+
+
+
