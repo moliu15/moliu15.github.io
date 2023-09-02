@@ -31,21 +31,22 @@ Upcoming Talks
 I am on the 2023-2024 academic job market. Below are my upcoming talks.
  
 
-## Upcoming Talks
 
-Purdue Operations Conference\\
+Purdue Operations Conference
   * _Title_: Active Label Acquisition with Personalized Incentives in the Assortment Optimization\\
-  * _Time_: <ins>Sept. 9, 2023</ins>\\
+  * _Time_: <ins>Sept. 9, 2023</ins>
 
-INFORMS Workshop on Data Science 2023\\
+INFORMS Workshop on Data Science 2023
   * _Title_: Active Learning in the Predict-then-Optimize Framework: A Margin-Based Approach\\
-  * _Time_: <ins>Oct 14, 2023</ins>\\
-INFORMS Service Science Student Competition 2023\\
+  * _Time_: <ins>Oct 14, 2023</ins>
+
+INFORMS Service Science Student Competition 2023
   * _Title_: Pricing under the Generalized Markov Chain Choice Model: Learning through Large-scale Click Behaviors\\
-  * _Time_: <ins>MB63 (10:45am-noon), Monday, October 16</ins>\\
-INFORMS Annual Meeting Talk\\
+  * _Time_: <ins>MB63 (10:45am-noon), Monday, October 16</ins>
+
+INFORMS Annual Meeting Talk
   * _Title_: Active Label Acquisition With Personalized Incentives In Assortment Optimization \\
-  * _Time_: CC-North 122A, Tuesday Oct 17, 2023 2:15 PM - 3:30 PM</ins>
+  * _Time_: <ins>CC-North 122A, Tuesday Oct 17, 2023 2:15 PM - 3:30 PM</ins>
 
 
 
