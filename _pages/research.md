@@ -5,11 +5,11 @@ permalink: /research/
 author_profile: false
 ---
 
-## Working papers
+## Research papers
 
 
 [1] Active Label Acquisition with Personalized Incentives in the Assortment Optimization\\
-**Mo Liu**, Junyu Cao, Zuo-jun Max Shen. Under Review at _Management Science_. [link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4487888)
+**Mo Liu**, Junyu Cao, Zuo-jun Max Shen. Under Review at _Management Science_. [ \[link\] ](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4487888)
 
 
 
