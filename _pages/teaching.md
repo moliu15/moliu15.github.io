@@ -14,15 +14,15 @@ I have been a Graduate Student Intructor (GSI) at UC Berkeley for the following 
 	_Undergraduate level courses_ Instructor: Prof. [Paul Grigas](https://ieor.berkeley.edu/people/robert-leachman/)
 
 
-* IEOR 240 <ins>Optimization Analytics.</ins> 2022 Fall. 
+* IEOR 240 **Optimization Analytics**. 2022 Fall
 	_Graduate level courses for Master of Analytics and Master of Engineering_ Instructor: Prof. [Ilan Adler](https://ieor.berkeley.edu/people/ilan-adler/) and Prof. Stewart Liu
 
 
 
-* IEOR 242 <ins>Machine Learning and Data Analytics.</ins> 2023 Spring. 
+* IEOR 242 **Machine Learning and Data Analytics**. 2023 Spring
 	_Graduate level courses for Master of Analytics and Master of Engineering_ Instructor: Prof. [Paul Grigas](https://ieor.berkeley.edu/people/robert-leachman/)
 
 
-* IEOR 240 <ins>Optimization Analytics.</ins> 2023 Fall. 
+* IEOR 240 **Optimization Analytics** 2023 Fall
 	_Graduate level courses for Master of Analytics and Master of Engineering_ Instructor: Prof. Stewart Liu
 
