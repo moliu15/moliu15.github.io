@@ -16,18 +16,18 @@ author_profile: false
 
 
 [2] Active Learning in the Predict-then-Optimize Framework: A Margin-Based Approach\\
-**Mo Liu**, Paul Grigas, Heyuan Liu, Zuo-jun Max Shen. Under Review at _Management Science_. [link](http://arxiv.org/abs/2305.06584)\\
+**Mo Liu**, Paul Grigas, Heyuan Liu, Zuo-jun Max Shen. Under Review at _Management Science_. [ \[link\] ](http://arxiv.org/abs/2305.06584)\\
 **Second Place Poster Prize at [YinzOR 2023](https://yinzor.cmuinforms.org/)**
 
 
 [3] Pricing under the Generalized Markov Chain Choice Model: Learning through Large-scale Click Behaviors. \\
-**Mo Liu**, Junyu Cao, Zuo-jun Max Shen. Under Review at _Operations Research_. [link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4158054), [5-minute Talk](https://drive.google.com/file/d/14klI-Uwv3fPAopCxW4s9kANgds0J7eHI/view?usp=drive_link)\\
+**Mo Liu**, Junyu Cao, Zuo-jun Max Shen. Under Review at _Operations Research_. [ \[link\] ](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4158054), [ \[5-minute Talk\] ](https://drive.google.com/file/d/14klI-Uwv3fPAopCxW4s9kANgds0J7eHI/view?usp=drive_link)\\
 **Finalist at 2023 Service Science Student Competition**\\
 **Fan Favoriate Flash Talk at [YinzOR 2023](https://yinzor.cmuinforms.org/)**
 
 
 [4] End-to-End Deep Learning for Automatic Inventory Management with Fixed Ordering Cost \\
-**Mo Liu**, Meng Qi, Zuo-jun Max Shen. Under Review at _Production and Operations Management_. [link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3888897)
+**Mo Liu**, Meng Qi, Zuo-jun Max Shen. Under Review at _Production and Operations Management_. [ \[link\] ](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3888897)
 
 
 [5] Importance-Weighted Active Learning for Contextual Stochastic Optimization\\
