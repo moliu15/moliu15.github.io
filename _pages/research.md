@@ -8,10 +8,11 @@ author_profile: false
 ## Working papers
 
 
-[1] Pricing under the Generalized Markov Chain Choice Model: Learning through Large-scale Click Behaviors. \\
-**Mo Liu**, Junyu Cao, Zuo-jun Max Shen. Under Review at _Operations Research_. [link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4158054)\\
-**Finalist at 2023 Service Science Student Competition**\\
-**Fan Favoriate Flash Talk at [YinzOR 2023](https://yinzor.cmuinforms.org/)**
+[1] Active Label Acquisition with Personalized Incentives in the Assortment Optimization\\
+**Mo Liu**, Junyu Cao, Zuo-jun Max Shen. Under Review at _Management Science_. [link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4487888)
+
+
+
 
 
 [2] Active Learning in the Predict-then-Optimize Framework: A Margin-Based Approach\\
@@ -19,12 +20,15 @@ author_profile: false
 **Second Place Poster Prize at [YinzOR 2023](https://yinzor.cmuinforms.org/)**
 
 
-[3] Active Label Acquisition with Personalized Incentives in the Assortment Optimization\\
-**Mo Liu**, Junyu Cao, Zuo-jun Max Shen. Under Review at _Management Science_. [link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4487888)
+[3] Pricing under the Generalized Markov Chain Choice Model: Learning through Large-scale Click Behaviors. \\
+**Mo Liu**, Junyu Cao, Zuo-jun Max Shen. Under Review at _Operations Research_. [link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4158054), [5-minute Talk](https://drive.google.com/file/d/14klI-Uwv3fPAopCxW4s9kANgds0J7eHI/view?usp=drive_link)\\
+**Finalist at 2023 Service Science Student Competition**\\
+**Fan Favoriate Flash Talk at [YinzOR 2023](https://yinzor.cmuinforms.org/)**
 
 
 [4] End-to-End Deep Learning for Automatic Inventory Management with Fixed Ordering Cost \\
 **Mo Liu**, Meng Qi, Zuo-jun Max Shen. Under Review at _Production and Operations Management_. [link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3888897)
+
 
 [5] Importance-Weighted Active Learning for Contextual Stochastic Optimization\\
 **Mo Liu**, Paul Grigas, Zuo-jun Max Shen.
