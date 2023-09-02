@@ -40,11 +40,11 @@ Zachary Xue, **Mo Liu**, Markus Ettl, Shivaram Subramanian
 
 ## Selected Talks
 
-* CMU YinzOR Student Competition, Pricing under the Generalized Markov Chain Choice Model: Learning through Large-scale Click Behaviors, August, 2023\\
-* International Conference Stochastic Programming, Active Learning in the Predict-then-Optimize Framework: A Margin-Based Approach, July, 2023\\
-* MSOM Conference, Personalized Incentive for Active Label Acquisition in the Assortment Optimization, June, 2023\\
-* IBM Research Intern Talk, Active Learning in the Predict-then-Optimize Framework: A Margin-Based Approach, June, 2022\\
-* INFORMS Annual Meeting, Pricing under the Generalized Markov Chain Choice Model: Learning through Large-scale Click Behavior, Oct, 2022\\
+* CMU YinzOR Student Competition, Pricing under the Generalized Markov Chain Choice Model: Learning through Large-scale Click Behaviors, August, 2023
+* International Conference Stochastic Programming, Active Learning in the Predict-then-Optimize Framework: A Margin-Based Approach, July, 2023
+* MSOM Conference, Personalized Incentive for Active Label Acquisition in the Assortment Optimization, June, 2023
+* IBM Research Intern Talk, Active Learning in the Predict-then-Optimize Framework: A Margin-Based Approach, June, 2022
+* INFORMS Annual Meeting, Pricing under the Generalized Markov Chain Choice Model: Learning through Large-scale Click Behavior, Oct, 2022
 * INFORMS Annual Meeting, End-to-End Deep Learning for the Inventory Management with Fixed Ordering Cost, Oct, 2020
 
 
