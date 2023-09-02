@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Selected Awards"
-permalink: /miscellaneous/
+permalink: /awards/
 author_profile: false
 ---
 
