@@ -17,7 +17,7 @@ Hi! I am Mo Liu, a fifth-year Ph.D. candidate in the Department of [Industrial E
 Research Interest
 ======
 
-My research interests include _data-driven decision making_ and _machine learning_. Specifically, I am interested in _decision-focused learning_: settings where a machine learning model is built to make decisions in the downstream optimization problem. In this setting, the prediction models are evaluated by the risk of the downstream problem, instead of the prediction errors.
+My research interests include _data-driven decision making_ and _machine learning_, with a focus on _decision-focused learning_: settings where a machine learning model is built to make decisions in the downstream optimization problem. In this setting, the prediction models are evaluated by the risk of the downstream problem, instead of the prediction errors. 
 
 * **Methodologies**:
   Statistical learning, active learning, and decision-focused learning.
