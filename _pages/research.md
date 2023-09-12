@@ -44,6 +44,7 @@ Zachary Xue, **Mo Liu**, Markus Ettl, Shivaram Subramanian
 
 ## Selected Talks
 
+* Purdue Operations Conference, Active Label Acquisition with Personalized Incentives in the Assortment Optimization, Sept. 9, 2023
 * CMU YinzOR Student Competition, Pricing under the Generalized Markov Chain Choice Model: Learning through Large-scale Click Behaviors, August, 2023
 * International Conference Stochastic Programming, Active Learning in the Predict-then-Optimize Framework: A Margin-Based Approach, July, 2023
 * MSOM Conference, Personalized Incentive for Active Label Acquisition in the Assortment Optimization, June, 2023

@@ -34,10 +34,6 @@ I am on the 2023-2024 academic job market. Below are my upcoming talks:
  
 
 
-Purdue Operations Conference
-  * _Title_: Active Label Acquisition with Personalized Incentives in the Assortment Optimization
-  * _Time_: <ins>Sept. 9, 2023</ins>
-
 INFORMS Workshop on Data Science 2023
   * _Title_: Active Learning in the Predict-then-Optimize Framework: A Margin-Based Approach
   * _Time_: <ins>Oct 14, 2023</ins>
