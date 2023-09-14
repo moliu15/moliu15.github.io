@@ -34,17 +34,17 @@ I am on the 2023-2024 academic job market. Below are my upcoming talks:
  
 
 
-INFORMS Workshop on Data Science 2023
+INFORMS [Workshop on Data Science 2023](https://sites.google.com/view/data-science-2023/)
   * _Title_: Active Learning in the Predict-then-Optimize Framework: A Margin-Based Approach
-  * _Time_: <ins>Oct 14, 2023</ins>
+  * _Time_: **Oct 14, 2023**
 
 INFORMS Service Science Student Competition 2023
   * _Title_: Pricing under the Generalized Markov Chain Choice Model: Learning through Large-scale Click Behaviors
-  * _Time_: <ins>MB63 (10:45am-noon), Monday, October 16</ins>
+  * _Time_: **MB63, 10:45am-noon, Monday, October 16**
 
 INFORMS Annual Meeting Talk
   * _Title_: Active Label Acquisition With Personalized Incentives In Assortment Optimization 
-  * _Time_: <ins>CC-North 122A, Tuesday Oct 17, 2023 2:15 PM - 3:30 PM</ins>
+  * _Time_: **CC-North 122A, 2023 2:15 PM - 3:30 PM, Tuesday Oct 17**
 
 
 
