@@ -43,7 +43,7 @@ INFORMS Service Science Student Competition 2023
   * _Time_: **MB63, 10:45am-noon, Monday, October 16**
 
 INFORMS Annual Meeting Talk
-  * _Title_: Active Label Acquisition With Personalized Incentives In Assortment Optimization 
+  * _Title_: Active Label Acquisition with Personalized Incentives in Assortment Optimization 
   * _Time_: **CC-North 122A, 2023 2:15 PM - 3:30 PM, Tuesday Oct 17**
 
 
