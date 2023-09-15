@@ -5,6 +5,9 @@ permalink: /awards/
 author_profile: false
 ---
 
+* INFORMS Workshop on Data Science Student Scholarship, 2023
+
+* INFORMS Service Science Student Competition Finalist, 2023
 
 * [Duryea Fellowsship](https://ieor.berkeley.edu/announcing-the-2021-duryea-fellows/), IEOR department, UC Berkeley, 2021 
 

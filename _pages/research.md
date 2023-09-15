@@ -17,13 +17,14 @@ author_profile: false
 
 [2] Active Learning in the Predict-then-Optimize Framework: A Margin-Based Approach\\
 **Mo Liu**, Paul Grigas, Heyuan Liu, Zuo-jun Max Shen. Under Review at _Management Science_. [ \[link\] ](http://arxiv.org/abs/2305.06584)\\
-**Second Place Poster Prize at [YinzOR 2023](https://yinzor.cmuinforms.org/)**
+* **Best Student Paper Nominee at INFORMS Workshop on Data Science 2023**
+* **Second Place Poster Prize at [YinzOR 2023](https://yinzor.cmuinforms.org/)**
 
 
 [3] Pricing under the Generalized Markov Chain Choice Model: Learning through Large-scale Click Behaviors. \\
 **Mo Liu**, Junyu Cao, Zuo-jun Max Shen. Under Review at _Operations Research_. [ \[link\] ](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4158054), [ \[5-minute Talk\] ](https://drive.google.com/file/d/14klI-Uwv3fPAopCxW4s9kANgds0J7eHI/view?usp=drive_link)\\
-**Finalist at 2023 INFORMS Service Science Student Competition**\\
-**Fan Favoriate Flash Talk at [YinzOR 2023](https://yinzor.cmuinforms.org/)**
+* **Finalist at 2023 INFORMS Service Science Student Competition**\\
+* **Fan Favoriate Flash Talk at [YinzOR 2023](https://yinzor.cmuinforms.org/)**
 
 
 [4] End-to-End Deep Learning for Automatic Inventory Management with Fixed Ordering Cost \\

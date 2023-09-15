@@ -34,7 +34,7 @@ I am on the 2023-2024 academic job market. Below are my upcoming talks:
  
 
 
-INFORMS [Workshop on Data Science 2023](https://sites.google.com/view/data-science-2023/)
+INFORMS [Workshop on Data Science 2023](https://sites.google.com/view/data-science-2023/) **Best Student Paper Nominee**
   * _Title_: Active Learning in the Predict-then-Optimize Framework: A Margin-Based Approach
   * _Time_: **Room 126A, 9:40 am- 10:40 am, Oct 14, 2023**
 
