@@ -23,7 +23,7 @@ My research interests include _data-driven decision-making_ and _machine learnin
   Statistical learning, active learning, and decision-focused learning.
 
 * **Applied Area**:
-  Revenue management, pricing, supply chain management.
+  Revenue management, pricing, supply chain management and healthcare.
 
 ------
 
