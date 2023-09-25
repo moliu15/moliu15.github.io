@@ -20,10 +20,10 @@ Research Interest
 My research interests include _data-driven decision-making_ and _machine learning_ (specifically statistical learning and active learning), with applications in _operations management_. I am particularly interested in _decision-focused learning_, a methodology that designs and trains prediction models to account for decision-making in downstream optimization problems. These downstream problems include real-world applications in revenue management, such as product recommendation, assortment optimization and inventory management.
 
 * **Methodologies**:
-  Statistical learning, active learning, and decision-focused learning.
+  Statistical learning, active learning, decision-focused learning.
 
 * **Applied Area**:
-  Revenue management, pricing, supply chain management and healthcare.
+  Revenue management, pricing, supply chain management.
 
 ------
 
