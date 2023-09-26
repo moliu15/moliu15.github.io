@@ -22,7 +22,7 @@ author_profile: false
 
 
 [3] Pricing under the Generalized Markov Chain Choice Model: Learning through Large-scale Click Behaviors. \\
-**Mo Liu**, Junyu Cao, Zuo-jun Max Shen. Under Review at _Operations Research_. [ \[link\] ](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4158054), [ \[5-minute Talk\] ](https://www.youtube.com/watch?v=7igcUC2DZ9k&list=PLuvtfhwcPzCTnZg1SVdhT-uuUR1q1N7U6&index=16)
+**Mo Liu**, Junyu Cao, Zuo-jun Max Shen. Under Review at _Operations Research_. [ \[link\] ](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4158054), [ \[**5-minute Talk**\] ](https://www.youtube.com/watch?v=7igcUC2DZ9k&list=PLuvtfhwcPzCTnZg1SVdhT-uuUR1q1N7U6&index=16)
 * **Finalist at 2023 INFORMS Service Science Student Competition**
 * **Fan Favoriate Flash Talk at [YinzOR 2023](https://yinzor.cmuinforms.org/)**
 
