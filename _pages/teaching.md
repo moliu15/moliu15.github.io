@@ -15,7 +15,7 @@ I have been a Graduate Student Instructor (GSI) at UC Berkeley for the following
 
 
 * IEOR 240 **Optimization Analytics**. 2022 Fall
-	_Graduate level courses for Master of Analytics and Master of Engineering_ Instructor: Prof. [Ilan Adler](https://ieor.berkeley.edu/people/ilan-adler/) and Prof. Stewart Liu
+	_Graduate level courses for Master of Analytics and Master of Engineering_ Instructor: Prof. [Ilan Adler](https://ieor.berkeley.edu/people/ilan-adler/) and Prof. [Stewart Liu](https://ieor.berkeley.edu/people/stewart-liu/)
 
 
 
@@ -24,5 +24,5 @@ I have been a Graduate Student Instructor (GSI) at UC Berkeley for the following
 
 
 * IEOR 240 **Optimization Analytics** 2023 Fall
-	_Graduate level courses for Master of Analytics and Master of Engineering_ Instructor: Prof. Stewart Liu
+	_Graduate level courses for Master of Analytics and Master of Engineering_ Instructor: Prof. [Stewart Liu](https://ieor.berkeley.edu/people/stewart-liu/)
 
