@@ -5,7 +5,7 @@ permalink: /awards/
 author_profile: false
 ---
 
-* INFORMS Workshop on Data Science Student Scholarship, 2023
+* INFORMS Workshop on Data Science [Student Scholarship](https://moliu15.github.io/files/Gold_Student_Fellowship.pdf), 2023
 
 * INFORMS Service Science Student Competition Finalist, 2023
 
