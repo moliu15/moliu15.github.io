@@ -40,7 +40,7 @@ INFORMS [Workshop on Data Science 2023](https://sites.google.com/view/data-scien
 
 INFORMS Service Science Student Competition 2023
   * _Title_: Pricing under the Generalized Markov Chain Choice Model: Learning through Large-scale Click Behaviors
-  * _Time_: **MB63, 10:45 am-noon, Monday, October 16**
+  * _Time_: **MB63,CC-West 102B, 10:45 am-noon, Monday, October 16**
 
 INFORMS Annual Meeting Talk
   * _Title_: Active Label Acquisition with Personalized Incentives in Assortment Optimization 
