@@ -12,7 +12,7 @@ author_profile: false
 **Mo Liu**, Junyu Cao, Zuo-jun Max Shen. Under Review at _Management Science_. [ \[link\] ](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4487888)
 
 
-* **"How much is the marginal contribution to the revenue increase when adding one new customer with some feature into the training set?"**
+* **"How much is the marginal contribution to the revenue increase when adding one new customer with some specific feature into the training set?"**
 
 
 [2] Active Learning in the Predict-then-Optimize Framework: A Margin-Based Approach\\
