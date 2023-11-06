@@ -14,11 +14,16 @@ author_profile: false
 
 * **"How much is the marginal contribution to the revenue increase when adding one new customer with some specific feature into the training set?"** (Job market project)
 
+* By evaluating this marginal contribution of each customer, we are able to identify informative customers and reduce the size of the training set by about 80% percent while maintaining the same level of revenue.
+
 
 [2] Active Learning in the Predict-then-Optimize Framework: A Margin-Based Approach\\
 **Mo Liu**, Paul Grigas, Heyuan Liu, Zuo-jun Max Shen. Under Review at _Management Science_. [ \[link\] ](http://arxiv.org/abs/2305.06584)
+
+* **"How to identify informative samples for the decision-making?"** (Job market project)
 * **Best Student Paper Nominee at INFORMS Workshop on Data Science 2023**
 * **Second Place Poster Prize at [YinzOR 2023](https://yinzor.cmuinforms.org/)**
+
 
 
 [3] Pricing under the Generalized Markov Chain Choice Model: Learning through Large-scale Click Behaviors. \\
