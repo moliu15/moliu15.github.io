@@ -9,7 +9,7 @@ author_profile: false
 
 
 [1] Active Label Acquisition with Personalized Incentives in the Assortment Optimization\\
-**Mo Liu**, Junyu Cao, Zuo-jun Max Shen. Under Review at _Management Science_. [ \[link\] ](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4487888)
+**Mo Liu**, Junyu Cao, Zuo-jun Max Shen. Under Review at _Management Science_. [ \[link\] ](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4487888) [ \[Slides\] ](https://moliu15.github.io/files/INFORMS_value_of_information.pdf)
 
 
 * **"How much is the marginal contribution to the revenue increase when adding one new customer with some specific feature into the training set?"** (Job market project)
@@ -18,7 +18,7 @@ author_profile: false
 
 
 [2] Active Learning in the Predict-then-Optimize Framework: A Margin-Based Approach\\
-**Mo Liu**, Paul Grigas, Heyuan Liu, Zuo-jun Max Shen. Under Review at _Management Science_. [ \[link\] ](http://arxiv.org/abs/2305.06584)
+**Mo Liu**, Paul Grigas, Heyuan Liu, Zuo-jun Max Shen. Under Review at _Management Science_. [ \[link\] ](http://arxiv.org/abs/2305.06584)[ \[Slides\] ](https://moliu15.github.io/files/MBALSPO_INFORMS_New.pdf)
 
 * **"How to identify informative samples for the decision-making?"** (Job market project)
 * **Best Student Paper Nominee at INFORMS Workshop on Data Science 2023**
@@ -27,7 +27,7 @@ author_profile: false
 
 
 [3] Pricing under the Generalized Markov Chain Choice Model: Learning through Large-scale Click Behaviors. \\
-**Mo Liu**, Junyu Cao, Zuo-jun Max Shen. Under Review at _Operations Research_. [ \[link\] ](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4158054), [ \[**5-minute Talk**\] ](https://www.youtube.com/watch?v=7igcUC2DZ9k&list=PLuvtfhwcPzCTnZg1SVdhT-uuUR1q1N7U6&index=16)
+**Mo Liu**, Junyu Cao, Zuo-jun Max Shen. Under Review at _Operations Research_. [ \[link\] ](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4158054), [ \[**5-minute Talk**\] ](https://www.youtube.com/watch?v=7igcUC2DZ9k&list=PLuvtfhwcPzCTnZg1SVdhT-uuUR1q1N7U6&index=16) [ \[Slides\] ](https://moliu15.github.io/files/5min_GMCCM_click_presentation.pdf)
 * **Finalist at 2023 INFORMS Service Science Student Competition**
 * **Fan Favoriate Flash Talk at [YinzOR 2023](https://yinzor.cmuinforms.org/)**
 
