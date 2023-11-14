@@ -11,7 +11,7 @@ I have been a Graduate Student Instructor (GSI) at UC Berkeley for the following
 	_Graduate level courses for PhD and Master students_ Instructor: Prof. [Robert Leachman](https://ieor.berkeley.edu/people/robert-leachman/)
 
 * IEOR 142 **Introduction to Machine Learning and Data Analytics**. 2021 Spring 
-	_Undergraduate level courses_ Instructor: Prof. [Paul Grigas](https://ieor.berkeley.edu/people/robert-leachman/)
+	_Undergraduate level courses_ Instructor: Prof. [Paul Grigas](https://grigas.ieor.berkeley.edu/)
 
 
 * IEOR 240 **Optimization Analytics**. 2022 Fall
@@ -20,7 +20,7 @@ I have been a Graduate Student Instructor (GSI) at UC Berkeley for the following
 
 
 * IEOR 242 **Machine Learning and Data Analytics**. 2023 Spring
-	_Graduate level courses for Master of Analytics and Master of Engineering_ Instructor: Prof. [Paul Grigas](https://ieor.berkeley.edu/people/robert-leachman/)
+	_Graduate level courses for Master of Analytics and Master of Engineering_ Instructor: Prof. [Paul Grigas](https://grigas.ieor.berkeley.edu/)
 
 
 * IEOR 240 **Optimization Analytics** 2023 Fall
