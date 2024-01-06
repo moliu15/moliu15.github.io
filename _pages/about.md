@@ -27,8 +27,6 @@ My research interests include _data-driven decision-making_ and _machine learnin
 
 ------
 
-Upcoming Talks
-======
 
 I am on the 2023-2024 academic job market. 
 
