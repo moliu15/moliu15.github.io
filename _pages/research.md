@@ -8,8 +8,8 @@ author_profile: false
 ## Research papers
 
 
-[1] Active Label Acquisition with Personalized Incentives in the Assortment Optimization\\
-**Mo Liu**, Junyu Cao, Zuo-jun Max Shen. Under Review at _Management Science_. [ \[link\] ](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4487888) [ \[Slides\] ](https://moliu15.github.io/files/INFORMS_value_of_information.pdf)
+[1] Heterogeneous Values of One Data Point: Active Label Acquisition in Assortment Optimization\\
+**Mo Liu**, Junyu Cao, Zuo-jun Max Shen. To be submitted to _Management Science_. [ \[link\] ](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4487888) [ \[Slides\] ](https://moliu15.github.io/files/INFORMS_value_of_information.pdf)
 
 
 * **"How much is the marginal contribution to the revenue increase when adding one new customer with some specific feature into the training set?"** (Job market project)
@@ -26,14 +26,14 @@ author_profile: false
 
 
 
-[3] Pricing under the Generalized Markov Chain Choice Model: Learning through Large-scale Click Behaviors. \\
-**Mo Liu**, Junyu Cao, Zuo-jun Max Shen. Under Review at _Operations Research_. [ \[link\] ](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4158054), [ \[**5-minute Talk**\] ](https://www.youtube.com/watch?v=7igcUC2DZ9k&list=PLuvtfhwcPzCTnZg1SVdhT-uuUR1q1N7U6&index=16) [ \[Slides\] ](https://moliu15.github.io/files/5min_GMCCM_click_presentation.pdf)
+[3] Learning from Click Transition Data: The Effectiveness of Greedy Pricing Policy under Dynamic Product Availability \\
+**Mo Liu**, Junyu Cao, Zuo-jun Max Shen. to be submitted to _Management Science_. [ \[link\] ](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4158054), [ \[**5-minute Talk**\] (Previous version)](https://www.youtube.com/watch?v=7igcUC2DZ9k&list=PLuvtfhwcPzCTnZg1SVdhT-uuUR1q1N7U6&index=16) [ \[Slides\] ](https://moliu15.github.io/files/5min_GMCCM_click_presentation.pdf)
 * **Finalist at 2023 INFORMS Service Science Student Competition**
 * **Fan Favoriate Flash Talk at [YinzOR 2023](https://yinzor.cmuinforms.org/)**
 
 
 [4] End-to-End Deep Learning for Automatic Inventory Management with Fixed Ordering Cost \\
-**Mo Liu**, Meng Qi, Zuo-jun Max Shen. Under Review at _Production and Operations Management_. [ \[link\] ](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3888897)
+**Mo Liu**, Meng Qi, Zuo-jun Max Shen. _Working paper_. [ \[link\] ](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3888897)
 
 
 [5] Importance-Weighted Active Learning for Contextual Stochastic Optimization\\
@@ -50,6 +50,10 @@ Zachary Xue, **Mo Liu**, Markus Ettl, Shivaram Subramanian
 
 ## Selected Talks
 
+
+* INFORMS Workshop on Data Science 2023, Active Learning in the Predict-then-Optimize Framework: A Margin-Based Approach, Oct 14, 2023
+* INFORMS Service Science Student Competition 2023, Pricing under the Generalized Markov Chain Choice Model: Learning through Large-scale Click Behaviors, October 16
+* INFORMS Annual Meeting Talk, Active Label Acquisition with Personalized Incentives in Assortment Optimization, Oct 17
 * Purdue Operations Conference, Active Label Acquisition with Personalized Incentives in the Assortment Optimization, Sept. 9, 2023
 * CMU YinzOR Student Competition, Pricing under the Generalized Markov Chain Choice Model: Learning through Large-scale Click Behaviors, August, 2023
 * International Conference Stochastic Programming, Active Learning in the Predict-then-Optimize Framework: A Margin-Based Approach, July, 2023
