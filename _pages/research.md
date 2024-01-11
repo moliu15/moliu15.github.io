@@ -9,7 +9,7 @@ author_profile: false
 
 
 [1] Heterogeneous Values of One Data Point: Active Label Acquisition in Assortment Optimization\\
-**Mo Liu**, Junyu Cao, Zuo-jun Max Shen. To be submitted to _Management Science_. [ \[link\] ](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4487888) [ \[Slides\] ](https://moliu15.github.io/files/INFORMS_value_of_information.pdf)
+**Mo Liu**, Junyu Cao, Zuo-jun Max Shen. To be resubmitted to _Management Science_. [ \[link\] ](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4487888) [ \[Slides\] ](https://moliu15.github.io/files/INFORMS_value_of_information.pdf)
 
 
 * **"How much is the marginal contribution to the revenue increase when adding one new customer with some specific feature into the training set?"** (Job market project)
