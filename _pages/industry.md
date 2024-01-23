@@ -15,7 +15,7 @@ author_profile: false
 	* Verify the proposed methods using airline booking data. 
 	
 	
-* **Amazon.com** Department of Supply Chain Optimization Technolog. Seattle, WA. (Virtual)\\
+* **Amazon.com** Department of Supply Chain Optimization Technology. Seattle, WA. (Virtual)\\
 <ins>Research Scientist Intern</ins> June 2020 - August 2020
 
 	* Developed the pricing strategy for used items sold at Amazon Warehouse 
