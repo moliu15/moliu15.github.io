@@ -18,7 +18,7 @@ author_profile: false
 
 
 [2] Active Learning in the Predict-then-Optimize Framework: A Margin-Based Approach\\
-**Mo Liu**, Paul Grigas, Heyuan Liu, Zuo-jun Max Shen. Under Review at _Management Science_. [ \[link\] ](http://arxiv.org/abs/2305.06584)[ \[Slides\] ](https://moliu15.github.io/files/MBALSPO_INFORMS_New.pdf)
+**Mo Liu**, Paul Grigas, Heyuan Liu, Zuo-jun Max Shen. To be resubmitted to _Management Science_. [ \[link\] ](http://arxiv.org/abs/2305.06584)[ \[Slides\] ](https://moliu15.github.io/files/MBALSPO_INFORMS_New.pdf)
 
 * **"How to identify informative samples for the decision-making?"** (Job market project)
 * **Best Student Paper Nominee at INFORMS Workshop on Data Science 2023**
