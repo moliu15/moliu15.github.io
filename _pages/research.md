@@ -26,23 +26,23 @@ author_profile: false
 
 
 
+
 [3] Learning from Click Transition Data: The Effectiveness of Greedy Pricing Policy under Dynamic Product Availability \\
 **Mo Liu**, Junyu Cao, Zuo-jun Max Shen. To be submitted to _Management Science_. [ \[link\] ](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4158054), [ \[**5-minute Talk**\] (Previous version)](https://www.youtube.com/watch?v=7igcUC2DZ9k&list=PLuvtfhwcPzCTnZg1SVdhT-uuUR1q1N7U6&index=16) [ \[Slides\] (Previous version) ](https://moliu15.github.io/files/5min_GMCCM_click_presentation.pdf)
 * **Finalist at 2023 INFORMS Service Science Student Competition**
 * **Fan Favoriate Flash Talk at [YinzOR 2023](https://yinzor.cmuinforms.org/)**
 
-[4] Active Learning by Prediction Uncertainty: Applications in Contextual Stochastic Linear Optimization \\
-**Mo Liu**, Paul Grigas, Zuo-jun Max Shen. _Woking paper._ [ \[link\] ](https://ec2024.hotcrp.com/doc/ec2024-paper1653.pdf?cap=hcav1653wfJFcaebCtcHdsypqppSmjrA)
 
-
-
-[5] End-to-End Deep Learning for Automatic Inventory Management with Fixed Ordering Cost \\
+[4] End-to-End Deep Learning for Automatic Inventory Management with Fixed Ordering Cost \\
 **Mo Liu**, Meng Qi, Zuo-jun Max Shen. _Working paper_. [ \[link\] ](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3888897)
 
 
+[5] Importance-Weighted Active Learning for Contextual Stochastic Optimization\\
+**Mo Liu**, Paul Grigas, Zuo-jun Max Shen. _Woking paper._
 
 
 ## Patent in application
+
 
 Machine Learning And Optimization With Partially Observable Time Series Data\\
 Zachary Xue, **Mo Liu**, Markus Ettl, Shivaram Subramanian
