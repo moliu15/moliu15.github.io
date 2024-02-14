@@ -36,8 +36,8 @@ author_profile: false
 **Mo Liu**, Meng Qi, Zuo-jun Max Shen. _Working paper_. [ \[link\] ](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3888897)
 
 
-[5] Importance-Weighted Active Learning for Contextual Stochastic Optimization\\
-**Mo Liu**, Paul Grigas, Zuo-jun Max Shen. _Woking paper._
+[5] Active Learning by Prediction Uncertainty: Applications in Contextual Stochastic Linear Optimization\\
+**Mo Liu**, Paul Grigas, Zuo-jun Max Shen. [\[link\]](https://ec2024.hotcrp.com/doc/ec2024-paper1653.pdf?cap=hcav1653wfJFcaebCtcHdsypqppSmjrA) _Woking paper._
 
 
 ## Patent in application
