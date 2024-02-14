@@ -37,7 +37,7 @@ author_profile: false
 
 
 [5] Active Learning by Prediction Uncertainty: Applications in Contextual Stochastic Linear Optimization\\
-**Mo Liu**, Paul Grigas, Zuo-jun Max Shen. [\[link\]](https://ec2024.hotcrp.com/doc/ec2024-paper1653.pdf?cap=hcav1653wfJFcaebCtcHdsypqppSmjrA) _Woking paper._
+**Mo Liu**, Paul Grigas, Zuo-jun Max Shen. _Woking paper._ [ \[link\] ](https://ec2024.hotcrp.com/doc/ec2024-paper1653.pdf?cap=hcav1653wfJFcaebCtcHdsypqppSmjrA)
 
 
 ## Patent in application
