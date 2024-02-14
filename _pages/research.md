@@ -32,12 +32,13 @@ author_profile: false
 * **Fan Favoriate Flash Talk at [YinzOR 2023](https://yinzor.cmuinforms.org/)**
 
 
-[4] End-to-End Deep Learning for Automatic Inventory Management with Fixed Ordering Cost \\
+[4] Active Learning by Prediction Uncertainty: Applications in Contextual Stochastic Linear Optimization\\
+**Mo Liu**, Paul Grigas, Zuo-jun Max Shen. _Woking paper._ [ \[link\] ](https://ec2024.hotcrp.com/doc/ec2024-paper1653.pdf?cap=hcav1653wfJFcaebCtcHdsypqppSmjrA)
+
+
+[5] End-to-End Deep Learning for Automatic Inventory Management with Fixed Ordering Cost \\
 **Mo Liu**, Meng Qi, Zuo-jun Max Shen. _Working paper_. [ \[link\] ](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3888897)
 
-
-[5] Importance-Weighted Active Learning for Contextual Stochastic Optimization\\
-**Mo Liu**, Paul Grigas, Zuo-jun Max Shen. _Woking paper._
 
 
 ## Patent in application
