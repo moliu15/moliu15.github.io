@@ -27,7 +27,7 @@ My research interests include _data-driven decision-making_ and _machine learnin
 ------
 
 
-I am on the 2023-2024 academic job market. 
+🎉 I will join the Department of Statistics and Operations Research at UNC Chapel Hill in the fall of 2024. 
 
 
 
