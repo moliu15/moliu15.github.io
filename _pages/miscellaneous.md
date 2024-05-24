@@ -1,12 +1,12 @@
 ---
 layout: archive
-title: "Miscellaneous"
+title: ""
 permalink: /miscellaneous/
 author_profile: false
 ---
 
 Industry Experiences
-======
+----
 
 * **IBM.com** AI for transportation. Yorktown Heights, NY. _Manager: Markus Ettl_\\
 <ins>Research Intern</ins> May 2022 - Aug 2022
@@ -29,7 +29,7 @@ Industry Experiences
 
 
 Selected Awards
-======
+----
 
 ---
 
