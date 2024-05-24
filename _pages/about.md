@@ -27,7 +27,7 @@ My research interests include _data-driven decision-making_ and _machine learnin
 ------
 
 
-🎉 I will join the [Department of Statistics and Operations Research](https://stor.unc.edu/) at UNC Chapel Hill in the fall of 2024 as an assistant professor. 
+I will join the [Department of Statistics and Operations Research](https://stor.unc.edu/) at UNC Chapel Hill in the fall of 2024 as an assistant professor. 
 
 
 
