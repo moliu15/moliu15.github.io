@@ -12,7 +12,7 @@ author_profile: false
 **Mo Liu**, Junyu Cao, Zuo-jun Max Shen. To be resubmitted to _Management Science_. [ \[link\] ](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4487888) [ \[Slides\] ](https://moliu15.github.io/files/INFORMS_value_of_information.pdf)
 
 
-* **"How much is the marginal contribution to the revenue increase when adding one new customer with some specific feature into the training set?"** (Job market project)
+* **"How much is the marginal contribution to the revenue increase when adding one new customer with some specific feature into the training set?"** 
 
 * By evaluating this marginal contribution of each customer, we are able to identify informative customers and reduce the size of the training set by about 80% percent while maintaining the same level of revenue.
 
@@ -20,7 +20,7 @@ author_profile: false
 [2] Active Learning in the Predict-then-Optimize Framework: A Margin-Based Approach\\
 **Mo Liu**, Paul Grigas, Heyuan Liu, Zuo-jun Max Shen. To be resubmitted to _Management Science_. [ \[link\] ](http://arxiv.org/abs/2305.06584)[ \[Slides\] ](https://moliu15.github.io/files/MBALSPO_INFORMS_New.pdf)
 
-* **"How to identify informative samples for the decision-making?"** (Job market project)
+* **"How to identify informative samples for the decision-making?"** 
 * **Best Student Paper Nominee at INFORMS Workshop on Data Science 2023**
 * **Second Place Poster Prize at [YinzOR 2023](https://yinzor.cmuinforms.org/)**
 
