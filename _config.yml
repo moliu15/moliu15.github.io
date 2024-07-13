@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Mo Liu"
 title_separator          : "-"
 name                     : &name "Mo Liu"
-description              : &description "Ph.D. candidate at UC Berkeley"
+description              : &description "Assistant Professor"
 url                      : https://moliu15.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "moliu15/moliu15.github.io"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Mo Liu"
   avatar           : "MoLiu_photo.jpg"
-  bio              : " Ph.D. candidate"
-  location         : "UC Berkeley"
+  bio              : " Assistant Professor"
+  location         : "UNC Chapel Hill"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=BIaeQNwAAAAJ"
