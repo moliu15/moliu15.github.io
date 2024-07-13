@@ -7,10 +7,10 @@ redirect_from:
   - /about.html
 ---
 
-About me
+Welcome!
 ======
 
-Hi! I am Mo Liu, a fifth-year Ph.D. candidate in the Department of [Industrial Engineering and Operations Research](https://ieor.berkeley.edu/) at the University of California, Berkeley. I am advised by [Zuo-Jun (Max) Shen](https://shen.ieor.berkeley.edu/). I am also fortunate to work with [Paul Grigas](https://grigas.ieor.berkeley.edu/). Prior to joining Berkeley, I received my B.S. degree in Industrial Engineering from [Tsinghua University](https://www.tsinghua.edu.cn/en/) in 2019.
+I am an assistant professor at the [Department of Statistics and Operations Research](https://stor.unc.edu/) at UNC Chapel Hill. I received my Ph.D. from the Department of [Industrial Engineering and Operations Research](https://ieor.berkeley.edu/) at the University of California, Berkeley, where I was advised by [Zuo-Jun (Max) Shen](https://shen.ieor.berkeley.edu/). I received my B.S. degree in Industrial Engineering from [Tsinghua University](https://www.tsinghua.edu.cn/en/) in 2019.
 
 
 Research Interest
@@ -24,10 +24,6 @@ My research interests include _data-driven decision-making_ and _machine learnin
 * **Applied Area**:
   Revenue management, pricing, supply chain management.
 
-------
-
-
-I will join the [Department of Statistics and Operations Research](https://stor.unc.edu/) at UNC Chapel Hill in the fall of 2024 as an assistant professor. 
 
 
 
