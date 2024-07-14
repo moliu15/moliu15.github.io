@@ -30,4 +30,4 @@ My research interests include _data-driven decision-making_ and _machine learnin
 
 Contact
 ------
-"mo_liu" AT "berkeley.edu"
+"mo_liu" AT "unc.edu"
