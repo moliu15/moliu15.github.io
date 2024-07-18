@@ -10,7 +10,7 @@ redirect_from:
 Welcome!
 ======
 
-I am an assistant professor at the [Department of Statistics and Operations Research](https://stor.unc.edu/) at UNC Chapel Hill. I received my Ph.D. from the Department of [Industrial Engineering and Operations Research](https://ieor.berkeley.edu/) at the University of California, Berkeley, where I was advised by [Zuo-Jun (Max) Shen](https://shen.ieor.berkeley.edu/). I received my B.S. degree in Industrial Engineering from [Tsinghua University](https://www.tsinghua.edu.cn/en/) in 2019.
+I am an assistant professor in the [Department of Statistics and Operations Research](https://stor.unc.edu/) at UNC Chapel Hill since 2024. I received my Ph.D. from the Department of [Industrial Engineering and Operations Research](https://ieor.berkeley.edu/) at the University of California, Berkeley, in 2024, where I was advised by [Zuo-Jun (Max) Shen](https://shen.ieor.berkeley.edu/). I received my B.S. degree in Industrial Engineering from [Tsinghua University](https://www.tsinghua.edu.cn/en/) in 2019.
 
 
 Research Interest
