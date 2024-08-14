@@ -5,7 +5,15 @@ permalink: /teaching/
 author_profile: false
 ---
 
-I have been a Graduate Student Instructor (GSI) at UC Berkeley for the following courses. My responsibilities as a GSI include leading weekly one-hour discussions, holding office hours, and designing exams and homework. 
+
+======
+Courses at UNC Chapel Hill:
+
+* **STOR 320-002**: Introduction to Data Science, 2024 Fall 
+
+======
+
+GSI Courses at UC Berkeley:
 
 * IEOR 250 **Introduction to Production Planning and Logistics Models**. 2020 Fall
 	_Graduate level courses for PhD and Master students_ 
