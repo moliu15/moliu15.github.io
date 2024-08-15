@@ -6,14 +6,17 @@ author_profile: false
 ---
 
 
-======
 Courses at UNC Chapel Hill:
+======
+
 
 * **STOR 320-002**: Introduction to Data Science, 2024 Fall 
 
-======
 
 GSI Courses at UC Berkeley:
+======
+
+
 
 * IEOR 250 **Introduction to Production Planning and Logistics Models**. 2020 Fall
 	_Graduate level courses for PhD and Master students_ 
