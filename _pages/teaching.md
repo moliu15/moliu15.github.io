@@ -7,14 +7,14 @@ author_profile: false
 
 
 Courses at UNC Chapel Hill:
-======
+------
 
 
 * **STOR 320-002**: Introduction to Data Science, 2024 Fall 
 
 
 GSI Courses at UC Berkeley:
-======
+------
 
 
 
