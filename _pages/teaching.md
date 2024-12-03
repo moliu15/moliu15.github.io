@@ -11,6 +11,7 @@ Courses at UNC Chapel Hill:
 
 
 * **STOR 320-002**: Introduction to Data Science, 2024 Fall 
+* **STOR 535**: Probability for Data Science, 2025 Spring 
 
 
 GSI Courses at UC Berkeley:

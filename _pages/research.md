@@ -35,20 +35,30 @@ author_profile: false
 [4] Active Learning by Prediction Uncertainty: Applications in Contextual Stochastic Linear Optimization\\
 **Mo Liu**, Paul Grigas, Zuo-jun Max Shen. _Woking paper._ 
 
-[5] End-to-End Deep Learning for Automatic Inventory Management with Fixed Ordering Cost \\
-**Mo Liu**, Meng Qi, Zuo-jun Max Shen. _Working paper_. [ \[link\] ](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3888897)
+[5] Inventory Management with LLM: Automated Decision-Making for Order Timing and Quantity \\
+**Mo Liu**, Yumo Bai, Meng Qi, Zuo-jun Max Shen. _Working paper_. [ \[link\] ](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3888897)
 
 
+[6] A Re-solving Heuristic for Dynamic Assortment Optimization with Knapsack Constraints \\
+Xi Chen, Mo Liu, Yining Wang, Yuan Zhou. _Working paper_. [ \[link\] ](https://arxiv.org/pdf/2407.05564)
 
-## Patent in application
+
+## Patent 
 
 Machine Learning And Optimization With Partially Observable Time Series Data\\
-Zachary Xue, **Mo Liu**, Markus Ettl, Shivaram Subramanian
+Zachary Xue, **Mo Liu**, Markus Ettl, Shivaram Subramanian. [ \[link\] ](https://patents.google.com/patent/US20240220855A1/en)
 
 
 
 
 ## Selected Talks
+
+
+* INFORMS Annual Meeting 2024, Seattle
+* Duke Fuqua School of Business, 2024
+* Purdue Operations Conference, West Lafayette, 2024
+* Revenue management and pricing conferenece 2024, Los Angelos
+* POMS Annual Meeting 2024, Minneapolis
 
 
 * INFORMS Workshop on Data Science 2023, Active Learning in the Predict-then-Optimize Framework: A Margin-Based Approach, Oct 14, 2023
