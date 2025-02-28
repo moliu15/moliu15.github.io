@@ -26,8 +26,9 @@ author_profile: false
 
 
 
-[3] Learning from Click Transition Data: The Effectiveness of Greedy Pricing Policy under Dynamic Product Availability \\
-**Mo Liu**, Junyu Cao, Zuo-jun Max Shen. To be submitted to _Management Science_. [ \[link\] ](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4158054), [ \[**5-minute Talk**\] (Previous version)](https://www.youtube.com/watch?v=7igcUC2DZ9k&list=PLuvtfhwcPzCTnZg1SVdhT-uuUR1q1N7U6&index=16) [ \[Slides\] (Previous version) ](https://moliu15.github.io/files/5min_GMCCM_click_presentation.pdf)
+[3] Learning from Click Transition Data: Effectiveness of Greedy Pricing Policy under Dynamic Product Availability \\
+**Mo Liu**, Junyu Cao, Zuo-jun Max Shen. Resubmitted to _Management Science_. [ \[link\] ](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4158054)
+
 * **Finalist at 2023 INFORMS Service Science Student Competition**
 * **Fan Favoriate Flash Talk at [YinzOR 2023](https://yinzor.cmuinforms.org/)**
 
