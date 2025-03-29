@@ -54,8 +54,9 @@ Zachary Xue, **Mo Liu**, Markus Ettl, Shivaram Subramanian. [ \[link\] ](https:/
 
 ## Selected Talks
 
-
-* INFORMS Annual Meeting 2024
+* North Carolina State University, Operations Research Seminar, March 2025
+* Business Analytics, Artificial Intelligence, and Cherry Blossom Conference at JHU, March 2025
+* INFORMS Annual Meeting, 2024
 * Duke Fuqua School of Business, 2024
 * Purdue Operations Conference, 2024
 * Revenue management and pricing conferenece 2024, Los Angeles
