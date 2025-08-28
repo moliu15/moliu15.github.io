@@ -25,7 +25,7 @@ My research interests include _data-driven decision-making_ and _machine learnin
   Revenue management, pricing, supply chain management.
 
 
-I am seeking self-motivated students with strong Python programming skills to work with me. Students from both UNC and other institutions are welcome. If you are interested in this opportunity, please contact me directly via email and include your CV.
+
 
 
 Contact
