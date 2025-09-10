@@ -8,6 +8,11 @@ main:
     url: /teaching/    
     
         
+
+  - title: "Students"
+    url: /students/
+
+
   - title: "Miscellaneous"
     url: /miscellaneous/
     
