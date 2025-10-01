@@ -18,7 +18,7 @@ author_profile: false
 
 
 [2] Active Learning For Contextual Linear Optimization: A Margin-Based Approach\\
-**Mo Liu**, Paul Grigas, Heyuan Liu, Zuo-jun Max Shen. Resubmitted to _Management Science_. [ \[link\] ](http://arxiv.org/abs/2305.06584)[ \[Slides\] ](https://moliu15.github.io/files/MBALSPO_INFORMS_New.pdf)
+**Mo Liu**, Paul Grigas, Heyuan Liu, Zuo-jun Max Shen. Major Revision at _Management Science_. [ \[link\] ](http://arxiv.org/abs/2305.06584)[ \[Slides\] ](https://moliu15.github.io/files/MBALSPO_INFORMS_New.pdf)
 
 * **"How to identify informative samples for the decision-making?"** 
 * **Best Student Paper Nominee at INFORMS Workshop on Data Science 2023**
@@ -27,21 +27,21 @@ author_profile: false
 
 
 [3] Learning from Click Transition Data: Effectiveness of Greedy Pricing Policy under Dynamic Product Availability \\
-**Mo Liu**, Junyu Cao, Zuo-jun Max Shen. Resubmitted to _Management Science_. [ \[link\] ](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4158054)
+**Mo Liu**, Junyu Cao, Zuo-jun Max Shen. Major Revision at _Management Science_. [ \[link\] ](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4158054)
 
 * **Finalist at 2023 INFORMS Service Science Student Competition**
 * **Fan Favoriate Flash Talk at [YinzOR 2023](https://yinzor.cmuinforms.org/)**
 
 
-[4] Active Learning by Prediction Uncertainty: Applications in Contextual Stochastic Linear Optimization\\
-**Mo Liu**, Paul Grigas, Zuo-jun Max Shen. _Woking paper._ 
+[4] Decision-Focused Sequential Experiment Design: A Directional Uncertainty-Guided Approach\\
+Beichen Wan, **Mo Liu**, Paul Grigas, Zuo-jun Max Shen. _Woking paper._ Preliminary version at [\[2025 NeurIPS Workshop\]](https://openreview.net/pdf?id=d0YZKGB649)
 
 [5] Inventory Management with LLM: Automated Decision-Making for Order Timing and Quantity \\
-**Mo Liu**, Yumo Bai, Meng Qi, Zuo-jun Max Shen. _Working paper_. [ \[link\] ](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3888897)
+**Mo Liu**, Yumo Bai, Meng Qi, Zuo-jun Max Shen. Major Revision at _Service Science_ [ \[link\] ](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3888897)
 
 
 [6] A Re-solving Heuristic for Dynamic Assortment Optimization with Knapsack Constraints \\
-Xi Chen, Mo Liu, Yining Wang, Yuan Zhou. _Working paper_. [ \[link\] ](https://arxiv.org/pdf/2407.05564)
+Xi Chen, Mo Liu, Yining Wang, Yuan Zhou. Major Revision at _Production and Operations Management_. [ \[link\] ](https://arxiv.org/pdf/2407.05564)
 
 
 ## Patent 
