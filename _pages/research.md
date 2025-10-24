@@ -34,7 +34,7 @@ author_profile: false
 
 
 [4] Decision-Focused Sequential Experiment Design: A Directional Uncertainty-Guided Approach\\
-Beichen Wan, **Mo Liu**, Paul Grigas, Zuo-jun Max Shen. _Woking paper._ Preliminary version at [\[2025 NeurIPS Workshop\]](https://openreview.net/pdf?id=d0YZKGB649)
+Beichen Wan, **Mo Liu**, Paul Grigas, Zuo-jun Max Shen. _Woking paper._ Preliminary version at [\[2025 NeurIPS Workshop\]](https://drive.google.com/file/d/18pitynGzaZVR5kORJ0Osm_uFUUIpjvIJ/view?usp=sharing)
 
 [5] Inventory Management with LLM: Automated Decision-Making for Order Timing and Quantity \\
 **Mo Liu**, Yumo Bai, Meng Qi, Zuo-jun Max Shen. Major Revision at _Service Science_ [ \[link\] ](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3888897)
