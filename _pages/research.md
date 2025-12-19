@@ -6,8 +6,8 @@ author_profile: false
 ---
 ## Research papers
 
-1. **Decision-Focused Bias Correction for Fluid Approximation**
-	Can Er, **Mo Liu**. To be submitted. [\[link\]](https://arxiv.org/pdf/2512.15726)
+1. **Decision-Focused Bias Correction for Fluid Approximation**  
+   Can Er, **Mo Liu**. To be submitted. [\[link\]](https://arxiv.org/pdf/2512.15726)
 
    * **"Fluid approximation is biased with respect to the decision-making"**
    * Should one plug in the time-varying arrival rate to replace the original demand arrival distribution when designing the capacity for multi-server system? (Short answer: No)
