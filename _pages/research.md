@@ -4,44 +4,43 @@ title: "Research"
 permalink: /research/
 author_profile: false
 ---
-
 ## Research papers
 
+1. **Marginal Value of One Data Point in Assortment Personalization**  
+   **Mo Liu**, Junyu Cao, Zuo-jun Max Shen. Resubmitted to _Management Science_.  
+   [\[link\]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4487888)
+   [\[Slides\]](https://moliu15.github.io/files/INFORMS_value_of_information.pdf)
 
-[1] Marginal Value of One Data Point in Assortment Personalization\\
-**Mo Liu**, Junyu Cao, Zuo-jun Max Shen. Resubmitted to _Management Science_. [ \[link\] ](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4487888) [ \[Slides\] ](https://moliu15.github.io/files/INFORMS_value_of_information.pdf)
+   * **"How much is the marginal contribution to the revenue increase when adding one new customer with some specific feature into the training set?"**
+   * By evaluating this marginal contribution of each customer, we are able to identify informative customers and reduce the size of the training set by about 80% while maintaining the same level of revenue.
 
+1. **Active Learning For Contextual Linear Optimization: A Margin-Based Approach**  
+   **Mo Liu**, Paul Grigas, Heyuan Liu, Zuo-jun Max Shen. Major Revision at _Management Science_.  
+   [\[link\]](http://arxiv.org/abs/2305.06584)
+   [\[Slides\]](https://moliu15.github.io/files/MBALSPO_INFORMS_New.pdf)
 
-* **"How much is the marginal contribution to the revenue increase when adding one new customer with some specific feature into the training set?"** 
+   * **"How to identify informative samples for decision-making?"**
+   * **Best Student Paper Nominee at INFORMS Workshop on Data Science 2023**
+   * **Second Place Poster Prize at [YinzOR 2023](https://yinzor.cmuinforms.org/)**
 
-* By evaluating this marginal contribution of each customer, we are able to identify informative customers and reduce the size of the training set by about 80% percent while maintaining the same level of revenue.
+1. **Learning from Click Transition Data: Effectiveness of Greedy Pricing Policy under Dynamic Product Availability**  
+   **Mo Liu**, Junyu Cao, Zuo-jun Max Shen. Major Revision at _Management Science_.  
+   [\[link\]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4158054)
 
+   * **Finalist at 2023 INFORMS Service Science Student Competition**
+   * **Fan Favorite Flash Talk at [YinzOR 2023](https://yinzor.cmuinforms.org/)**
 
-[2] Active Learning For Contextual Linear Optimization: A Margin-Based Approach\\
-**Mo Liu**, Paul Grigas, Heyuan Liu, Zuo-jun Max Shen. Major Revision at _Management Science_. [ \[link\] ](http://arxiv.org/abs/2305.06584)[ \[Slides\] ](https://moliu15.github.io/files/MBALSPO_INFORMS_New.pdf)
+1. **Decision-Focused Sequential Experiment Design: A Directional Uncertainty-Guided Approach**  
+   Beichen Wan, **Mo Liu**, Paul Grigas, Zuo-jun Max Shen. _Working paper._  
+   Preliminary version at [\[2025 NeurIPS Workshop\]](https://drive.google.com/file/d/18pitynGzaZVR5kORJ0Osm_uFUUIpjvIJ/view?usp=sharing)
 
-* **"How to identify informative samples for the decision-making?"** 
-* **Best Student Paper Nominee at INFORMS Workshop on Data Science 2023**
-* **Second Place Poster Prize at [YinzOR 2023](https://yinzor.cmuinforms.org/)**
+1. **Inventory Management with LLM: Automated Decision-Making for Order Timing and Quantity**  
+   **Mo Liu**, Yumo Bai, Meng Qi, Zuo-jun Max Shen. Major Revision at _Service Science_.  
+   [\[link\]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3888897)
 
-
-
-[3] Learning from Click Transition Data: Effectiveness of Greedy Pricing Policy under Dynamic Product Availability \\
-**Mo Liu**, Junyu Cao, Zuo-jun Max Shen. Major Revision at _Management Science_. [ \[link\] ](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4158054)
-
-* **Finalist at 2023 INFORMS Service Science Student Competition**
-* **Fan Favoriate Flash Talk at [YinzOR 2023](https://yinzor.cmuinforms.org/)**
-
-
-[4] Decision-Focused Sequential Experiment Design: A Directional Uncertainty-Guided Approach\\
-Beichen Wan, **Mo Liu**, Paul Grigas, Zuo-jun Max Shen. _Woking paper._ Preliminary version at [\[2025 NeurIPS Workshop\]](https://drive.google.com/file/d/18pitynGzaZVR5kORJ0Osm_uFUUIpjvIJ/view?usp=sharing)
-
-[5] Inventory Management with LLM: Automated Decision-Making for Order Timing and Quantity \\
-**Mo Liu**, Yumo Bai, Meng Qi, Zuo-jun Max Shen. Major Revision at _Service Science_ [ \[link\] ](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3888897)
-
-
-[6] A Re-solving Heuristic for Dynamic Assortment Optimization with Knapsack Constraints \\
-Xi Chen, Mo Liu, Yining Wang, Yuan Zhou. Major Revision at _Production and Operations Management_. [ \[link\] ](https://arxiv.org/pdf/2407.05564)
+1. **A Re-solving Heuristic for Dynamic Assortment Optimization with Knapsack Constraints**  
+   Xi Chen, Mo Liu, Yining Wang, Yuan Zhou. Major Revision at _Production and Operations Management_.  
+   [\[link\]](https://arxiv.org/pdf/2407.05564)
 
 
 ## Patent 
