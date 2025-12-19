@@ -6,6 +6,15 @@ author_profile: false
 ---
 ## Research papers
 
+1. **Decision-Focused Bias Correction for Fluid Approximation**
+	Can Er, **Mo Liu**. To be submitted. [\[link\]](https://arxiv.org/pdf/2512.15726)
+
+   * **"Fluid approximation is biased with respect to the decision-making"**
+   * Should one plug in the time-varying arrival rate to replace the original demand arrival distribution when designing the capacity for multi-server system? (Short answer: No)
+   * Does a decision-corrected fluid approximation always exist? (Short answer: No)
+   * Does a (vectorized) point prediction exist for multi-product multi-customer newsvendor problem? (Short answer: No)
+   * We provide sufficient and necessary conditions for the exsitence of the decision-corrected arrival rate.
+
 1. **Marginal Value of One Data Point in Assortment Personalization**  
    **Mo Liu**, Junyu Cao, Zuo-jun Max Shen. Resubmitted to _Management Science_.  
    [\[link\]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4487888)
@@ -32,14 +41,15 @@ author_profile: false
 
 1. **Decision-Focused Sequential Experiment Design: A Directional Uncertainty-Guided Approach**  
    Beichen Wan, **Mo Liu**, Paul Grigas, Zuo-jun Max Shen. _Working paper._  
-   Preliminary version at [\[2025 NeurIPS Workshop\]](https://drive.google.com/file/d/18pitynGzaZVR5kORJ0Osm_uFUUIpjvIJ/view?usp=sharing)
+   Preliminary version at [\[2025 NeurIPS Workshop\]](https://openreview.net/pdf?id=d0YZKGB649)
+   [\[Poster\]](https://moliu15.github.io/files/decision-focused-design_poster.pdf)
 
 1. **Inventory Management with LLM: Automated Decision-Making for Order Timing and Quantity**  
    **Mo Liu**, Yumo Bai, Meng Qi, Zuo-jun Max Shen. Major Revision at _Service Science_.  
    [\[link\]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3888897)
 
 1. **A Re-solving Heuristic for Dynamic Assortment Optimization with Knapsack Constraints**  
-   Xi Chen, Mo Liu, Yining Wang, Yuan Zhou. Major Revision at _Production and Operations Management_.  
+   Xi Chen, Mo Liu, Yining Wang, Yuan Zhou. Accepted by _Production and Operations Management_.  
    [\[link\]](https://arxiv.org/pdf/2407.05564)
 
 
