@@ -12,8 +12,8 @@ author_profile: false
    * **"Fluid approximation is biased with respect to the decision-making"**
    * Should one plug in the time-varying arrival rate to replace the original demand arrival distribution when designing the capacity for multi-server system? (Short answer: No)
    * Does a decision-corrected fluid approximation always exist? (Short answer: No)
-   * Does a (vectorized) point prediction exist for multi-product multi-customer newsvendor problem? (Short answer: No)
-   * We provide sufficient and necessary conditions for the exsitence of the decision-corrected arrival rate.
+   * Does a (vectorized) point prediction always exist for multi-product multi-customer newsvendor problem? (Short answer: No)
+   * We provide sufficient and necessary conditions for the existence of the decision-corrected arrival rate.
 
 1. **Marginal Value of One Data Point in Assortment Personalization**  
    **Mo Liu**, Junyu Cao, Zuo-jun Max Shen. Resubmitted to _Management Science_.  
