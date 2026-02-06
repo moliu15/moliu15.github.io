@@ -3,26 +3,27 @@ layout: archive
 title: "Research"
 permalink: /research/
 author_profile: false
+mathjax: true
 ---
 ## Research Papers
 
 My research focuses on **decision-focused methods for stochastic optimization**. A recurring theme in my work is that **better prediction does not necessarily lead to better decisions**.
 
-Many of my papers can be viewed as a sequence of **“STOP” messages** to the ML/OR community.
+Many of my papers can be viewed as a sequence of **“STOP” messages** to the traditional predict-then-optimize paradigm.
 
 ---
 
-### "STOP" using L2 norm for optimal transport
 
-**"STOP"** using Wasserstein distance — we need a **decision-focused divergence**.  
-
-**"STOP"** using \(\frac{\mu+\nu}{2}\) as the average of two probability measures — we need a **decision-focused average**.
 
 1. **Decision-Focused Optimal Transport**  
    Suhan Liu, **Mo Liu**  
    [\[arXiv\]](https://arxiv.org/abs/2602.02800)
 
-   Motivating example: For a random coefficient vector \(X\) in the objective, \(5X\) induces the same decision as \(X\) in linear optimization.
+-  "STOP" using L2 norm for optimal transport
+-  "STOP" using Wasserstein distance — we need a **decision-focused divergence**.  
+
+- "STOP" using \(\frac{\mu+\nu}{2}\) as the average of two probability measures — we need a **decision-focused average**.
+
 
    We propose a new metric, termed **decision-focused divergence**, to quantify the distance between two distributions through the lens of downstream decision quality.
 
@@ -32,11 +33,12 @@ Many of my papers can be viewed as a sequence of **“STOP” messages** to the 
 
 ---
 
-### "STOP" using fluid approximation for capacity planning — we need decision-corrected arrival rates
-
 1. **Decision-Focused Bias Correction for Fluid Approximation**  
    Can Er, **Mo Liu**. _To be submitted._  
    [\[arXiv\]](https://arxiv.org/pdf/2512.15726)
+
+- "STOP" using fluid approximation for capacity planning — we need decision-corrected arrival rates
+
 
    This paper revisits fluid approximations in queueing systems and multi-product newsvendor problems from a decision-centric perspective.
 
@@ -48,13 +50,15 @@ Many of my papers can be viewed as a sequence of **“STOP” messages** to the 
 
 ---
 
-### "STOP" quantifying prediction uncertainty for data collection — we need decision-focused uncertainty quantification
 
 1. **Decision-Focused Sequential Experiment Design: A Directional Uncertainty-Guided Approach**  
    Beichen Wan, **Mo Liu**, Paul Grigas, Zuo-Jun Max Shen. _Working paper._  
    [\[arXiv\]](https://arxiv.org/abs/2602.05340)  
    Preliminary version at [\[NeurIPS 2025 Workshop\]](https://openreview.net/pdf?id=d0YZKGB649)  
    [\[Poster\]](https://moliu15.github.io/files/decision-focused-design_poster.pdf)
+
+   
+- "STOP" quantifying prediction uncertainty for data collection — we need decision-focused uncertainty quantification
 
    Traditional uncertainty quantification is often **decision-blind**. We introduce a **directional uncertainty measure** that explicitly accounts for the downstream optimization problem and guides data collection toward decision-relevant regions.
 
@@ -65,12 +69,13 @@ Many of my papers can be viewed as a sequence of **“STOP” messages** to the 
 
 ---
 
-### "STOP" assuming more (i.i.d.) data leads to higher revenue — better prediction can worsen decisions
 
 1. **Marginal Value of One Data Point in Assortment Personalization**  
    **Mo Liu**, Junyu Cao, Zuo-Jun Max Shen. _Resubmitted to Management Science._  
    [\[SSRN\]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4487888)  
    [\[Slides\]](https://moliu15.github.io/files/INFORMS_value_of_information.pdf)
+
+-  "STOP" assuming more (i.i.d.) data leads to higher revenue — better prediction can worsen decisions
 
    We study the **marginal value of adding a single data point** in personalized assortment optimization.
 
@@ -79,7 +84,7 @@ Many of my papers can be viewed as a sequence of **“STOP” messages** to the 
 
 ---
 
-## Other Work on Decision-Focused Learning and Predict-then-Optimize
+<span style="font-size: 1.6em; font-weight: 700;">Other Work on Decision-Focused Learning and Predict-then-Optimize</span><br>
 
 1. **Active Learning For Contextual Linear Optimization: A Margin-Based Approach**  
    **Mo Liu**, Paul Grigas, Heyuan Liu, Zuo-Jun Max Shen. _Major Revision at Management Science._  
