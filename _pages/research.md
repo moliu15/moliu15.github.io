@@ -32,7 +32,7 @@ Many of my papers can be viewed as a sequence of **“STOP” messages** to the 
 
   
 
-1. **Decision-Focused Bias Correction for Fluid Approximation**  
+2. **Decision-Focused Bias Correction for Fluid Approximation**  
    Can Er, **Mo Liu**. _To be submitted._  [\[arXiv\]](https://arxiv.org/pdf/2512.15726)
 
 - "STOP" using fluid approximation for capacity planning — we need decision-corrected arrival rates
@@ -49,7 +49,7 @@ Many of my papers can be viewed as a sequence of **“STOP” messages** to the 
   
 
 
-1. **Decision-Focused Sequential Experiment Design: A Directional Uncertainty-Guided Approach**  
+3. **Decision-Focused Sequential Experiment Design: A Directional Uncertainty-Guided Approach**  
    Beichen Wan, **Mo Liu**, Paul Grigas, Zuo-Jun Max Shen. _Working paper._  [\[arXiv\]](https://arxiv.org/abs/2602.05340)  Preliminary version at [\[NeurIPS 2025 Workshop\]](https://openreview.net/pdf?id=d0YZKGB649)  [\[Poster\]](https://moliu15.github.io/files/decision-focused-design_poster.pdf)
 
    
@@ -65,7 +65,7 @@ Many of my papers can be viewed as a sequence of **“STOP” messages** to the 
   
 
 
-1. **Marginal Value of One Data Point in Assortment Personalization**  
+4. **Marginal Value of One Data Point in Assortment Personalization**  
    **Mo Liu**, Junyu Cao, Zuo-Jun Max Shen. _Resubmitted to Management Science._  [\[SSRN\]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4487888)  [\[Slides\]](https://moliu15.github.io/files/INFORMS_value_of_information.pdf)
 
 -  "STOP" assuming more (i.i.d.) data leads to higher revenue — better prediction can worsen decisions
