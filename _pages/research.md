@@ -11,7 +11,7 @@ My research focuses on **decision-focused methods for stochastic optimization**.
 
 Many of my papers can be viewed as a sequence of **“STOP” messages** to the traditional predict-then-optimize paradigm.
 
- <span style="display:block;height:1px;background:#ddd;margin:1rem 0;"></span>
+  
 
 
 
@@ -30,7 +30,7 @@ Many of my papers can be viewed as a sequence of **“STOP” messages** to the 
    * In the **newsvendor problem**, the decision-focused divergence is **zero** whenever the critical quantiles coincide, even if the distributions differ.
    * For any random vector $X$ and random variable $Y$, the decision-focused divergence between $X$ and $X \times Y$ is **zero**.
 
- <span style="display:block;height:1px;background:#ddd;margin:1rem 0;"></span>
+  
 
 1. **Decision-Focused Bias Correction for Fluid Approximation**  
    Can Er, **Mo Liu**. _To be submitted._  [\[arXiv\]](https://arxiv.org/pdf/2512.15726)
@@ -46,7 +46,7 @@ Many of my papers can be viewed as a sequence of **“STOP” messages** to the 
    * Does a (vectorized) point prediction always exist for multi-product multi-customer newsvendor problems? (Short answer: No.)
    * We provide **necessary and sufficient conditions** for the existence of the decision-corrected arrival rate.
 
- <span style="display:block;height:1px;background:#ddd;margin:1rem 0;"></span>
+  
 
 
 1. **Decision-Focused Sequential Experiment Design: A Directional Uncertainty-Guided Approach**  
@@ -62,7 +62,7 @@ Many of my papers can be viewed as a sequence of **“STOP” messages** to the 
    * Under certain distributions, it yields **smaller sample complexity** than decision-blind designs.
    * We establish strong consistency and convergence guarantees.
 
- <span style="display:block;height:1px;background:#ddd;margin:1rem 0;"></span>
+  
 
 
 1. **Marginal Value of One Data Point in Assortment Personalization**  
@@ -75,7 +75,7 @@ Many of my papers can be viewed as a sequence of **“STOP” messages** to the 
    * The marginal revenue contribution of a new customer can be **negative**.
    * By evaluating marginal contributions, we identify informative customers and reduce the training set size by about **80%** while maintaining similar revenue.
 
- <span style="display:block;height:1px;background:#ddd;margin:1rem 0;"></span>
+  
 
 <span style="font-size: 1.2em; font-weight: 700;">Other Work on Decision-Focused Learning and Predict-then-Optimize</span><br>
 
