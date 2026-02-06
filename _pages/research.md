@@ -22,14 +22,14 @@ Many of my papers can be viewed as a sequence of **“STOP” messages** to the 
 -  "STOP" using L2 norm for optimal transport
 -  "STOP" using Wasserstein distance — we need a **decision-focused divergence**.  
 
-- "STOP" using \(\frac{\mu+\nu}{2}\) as the average of two probability measures — we need a **decision-focused average**.
+- "STOP" using $\frac{\mu+\nu}{2}$ as the average of two probability measures — we need a **decision-focused average**.
 
 
    We propose a new metric, termed **decision-focused divergence**, to quantify the distance between two distributions through the lens of downstream decision quality.
 
    * The estimation error bound is **independent of the dimension** of the distributions.
    * In the **newsvendor problem**, the decision-focused divergence is **zero** whenever the critical quantiles coincide, even if the distributions differ.
-   * For any random vector \(X\) and random variable \(Y\), the decision-focused divergence between \(X\) and \(X \times Y\) is **zero**.
+   * For any random vector $X$ and random variable $Y$, the decision-focused divergence between $X$ and $X \times Y$ is **zero**.
 
 ---
 
