@@ -16,8 +16,7 @@ Many of my papers can be viewed as a sequence of **“STOP” messages** to the 
 
 
 1. **Decision-Focused Optimal Transport**  
-   Suhan Liu, **Mo Liu**  _To be submitted._
-   [\[arXiv\]](https://arxiv.org/abs/2602.02800)
+   Suhan Liu, **Mo Liu**  _To be submitted._ [\[arXiv\]](https://arxiv.org/abs/2602.02800)
 
 -  "STOP" using L2 norm for optimal transport
 -  "STOP" using Wasserstein distance — we need a **decision-focused divergence**.  
@@ -34,8 +33,7 @@ Many of my papers can be viewed as a sequence of **“STOP” messages** to the 
  <hr>
 
 1. **Decision-Focused Bias Correction for Fluid Approximation**  
-   Can Er, **Mo Liu**. _To be submitted._  
-   [\[arXiv\]](https://arxiv.org/pdf/2512.15726)
+   Can Er, **Mo Liu**. _To be submitted._  [\[arXiv\]](https://arxiv.org/pdf/2512.15726)
 
 - "STOP" using fluid approximation for capacity planning — we need decision-corrected arrival rates
 
@@ -52,10 +50,7 @@ Many of my papers can be viewed as a sequence of **“STOP” messages** to the 
 
 
 1. **Decision-Focused Sequential Experiment Design: A Directional Uncertainty-Guided Approach**  
-   Beichen Wan, **Mo Liu**, Paul Grigas, Zuo-Jun Max Shen. _Working paper._  
-   [\[arXiv\]](https://arxiv.org/abs/2602.05340)  
-   Preliminary version at [\[NeurIPS 2025 Workshop\]](https://openreview.net/pdf?id=d0YZKGB649)  
-   [\[Poster\]](https://moliu15.github.io/files/decision-focused-design_poster.pdf)
+   Beichen Wan, **Mo Liu**, Paul Grigas, Zuo-Jun Max Shen. _Working paper._  [\[arXiv\]](https://arxiv.org/abs/2602.05340)  Preliminary version at [\[NeurIPS 2025 Workshop\]](https://openreview.net/pdf?id=d0YZKGB649)  [\[Poster\]](https://moliu15.github.io/files/decision-focused-design_poster.pdf)
 
    
 - "STOP" quantifying prediction uncertainty for data collection — we need decision-focused uncertainty quantification
@@ -71,9 +66,7 @@ Many of my papers can be viewed as a sequence of **“STOP” messages** to the 
 
 
 1. **Marginal Value of One Data Point in Assortment Personalization**  
-   **Mo Liu**, Junyu Cao, Zuo-Jun Max Shen. _Resubmitted to Management Science._  
-   [\[SSRN\]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4487888)  
-   [\[Slides\]](https://moliu15.github.io/files/INFORMS_value_of_information.pdf)
+   **Mo Liu**, Junyu Cao, Zuo-Jun Max Shen. _Resubmitted to Management Science._  [\[SSRN\]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4487888)  [\[Slides\]](https://moliu15.github.io/files/INFORMS_value_of_information.pdf)
 
 -  "STOP" assuming more (i.i.d.) data leads to higher revenue — better prediction can worsen decisions
 
@@ -87,28 +80,23 @@ Many of my papers can be viewed as a sequence of **“STOP” messages** to the 
 <span style="font-size: 1.2em; font-weight: 700;">Other Work on Decision-Focused Learning and Predict-then-Optimize</span><br>
 
 1. **Active Learning For Contextual Linear Optimization: A Margin-Based Approach**  
-   **Mo Liu**, Paul Grigas, Heyuan Liu, Zuo-Jun Max Shen. _Major Revision at Management Science._  
-   [\[arXiv\]](http://arxiv.org/abs/2305.06584)  
-   [\[Slides\]](https://moliu15.github.io/files/MBALSPO_INFORMS_New.pdf)
+   **Mo Liu**, Paul Grigas, Heyuan Liu, Zuo-Jun Max Shen. _Major Revision at Management Science._  [\[arXiv\]](http://arxiv.org/abs/2305.06584)  [\[Slides\]](https://moliu15.github.io/files/MBALSPO_INFORMS_New.pdf)
 
    * How to identify **informative samples** for decision-making
    * **Best Student Paper Nominee** at INFORMS Workshop on Data Science 2023
    * **Second Place Poster Prize** at [YinzOR 2023](https://yinzor.cmuinforms.org/)
 
 1. **Learning from Click Transition Data: Effectiveness of Greedy Pricing Policy under Dynamic Product Availability**  
-   **Mo Liu**, Junyu Cao, Zuo-Jun Max Shen. _Major Revision at Management Science._  
-   [\[SSRN\]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4158054)
+   **Mo Liu**, Junyu Cao, Zuo-Jun Max Shen. _Major Revision at Management Science._  [\[SSRN\]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4158054)
 
    * **Finalist** at 2023 INFORMS Service Science Student Competition
    * **Fan Favorite Flash Talk** at [YinzOR 2023](https://yinzor.cmuinforms.org/)
 
 1. **Inventory Management with LLM: Automated Decision-Making for Order Timing and Quantity**  
-   **Mo Liu**, Yumo Bai, Meng Qi, Zuo-Jun Max Shen. _Major Revision at Service Science._  
-   [\[SSRN\]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3888897)
+   **Mo Liu**, Yumo Bai, Meng Qi, Zuo-Jun Max Shen. _Major Revision at Service Science._  [\[SSRN\]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3888897)
 
 1. **A Re-solving Heuristic for Dynamic Assortment Optimization with Knapsack Constraints**  
-   Xi Chen, **Mo Liu**, Yining Wang, Yuan Zhou. _Accepted by Production and Operations Management._  
-   [\[arXiv\]](https://arxiv.org/pdf/2407.05564)
+   Xi Chen, **Mo Liu**, Yining Wang, Yuan Zhou. _Accepted by Production and Operations Management._  [\[arXiv\]](https://arxiv.org/pdf/2407.05564)
 
 ---
 
