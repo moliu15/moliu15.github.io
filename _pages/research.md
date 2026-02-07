@@ -338,47 +338,78 @@ We study the **marginal value of adding a single data point** in personalized as
 <span class="chip">Other Work on Decision-Focused Learning and Predict-then-Optimize</span><br>
 </div>
 
+
+
+
 <ol class="other-list">
 
 <li>
-<div class="other-card" markdown="1">
+<div class="paper-card other-card" markdown="1">
 
-1. **Active Learning For Contextual Linear Optimization: A Margin-Based Approach**  
-   **Mo Liu**, Paul Grigas, Heyuan Liu, Zuo-Jun Max Shen. _Major Revision at Management Science._  [\[arXiv\]](http://arxiv.org/abs/2305.06584)  [\[Slides\]](https://moliu15.github.io/files/MBALSPO_INFORMS_New.pdf)
+<div class="paper-title">
+<strong><span class="paper-title-text">Active Learning For Contextual Linear Optimization: A Margin-Based Approach</span></strong>  
+</div>
 
-   * How to identify **informative samples** for decision-making
-   * **Best Student Paper Nominee** at INFORMS Workshop on Data Science 2023
-   * **Second Place Poster Prize** at [YinzOR 2023](https://yinzor.cmuinforms.org/)
+<div class="paper-meta" markdown="1">
+**Mo Liu**, Paul Grigas, Heyuan Liu, Zuo-Jun Max Shen. _Major Revision at Management Science._  [\[arXiv\]](http://arxiv.org/abs/2305.06584)  [\[Slides\]](https://moliu15.github.io/files/MBALSPO_INFORMS_New.pdf)
+</div>
+
+<div class="paper-explain" markdown="1">
+<ul class="paper-points">
+  <li>How to identify <strong>informative samples</strong> for decision-making.</li>
+  <li><strong>Best Student Paper Nominee</strong> at INFORMS Workshop on Data Science 2023.</li>
+  <li><strong>Second Place Poster Prize</strong> at [YinzOR 2023](https://yinzor.cmuinforms.org/).</li>
+</ul>
+</div>
 
 </div>
 </li>
 
 <li>
-<div class="other-card" markdown="1">
+<div class="paper-card other-card" markdown="1">
 
-1. **Learning from Click Transition Data: Effectiveness of Greedy Pricing Policy under Dynamic Product Availability**  
-   **Mo Liu**, Junyu Cao, Zuo-Jun Max Shen. _Major Revision at Management Science._  [\[SSRN\]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4158054)
+<div class="paper-title">
+<strong><span class="paper-title-text">Learning from Click Transition Data: Effectiveness of Greedy Pricing Policy under Dynamic Product Availability</span></strong>  
+</div>
 
-   * **Finalist** at 2023 INFORMS Service Science Student Competition
-   * **Fan Favorite Flash Talk** at [YinzOR 2023](https://yinzor.cmuinforms.org/)
+<div class="paper-meta" markdown="1">
+**Mo Liu**, Junyu Cao, Zuo-Jun Max Shen. _Major Revision at Management Science._  [\[SSRN\]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4158054)
+</div>
+
+<div class="paper-explain" markdown="1">
+<ul class="paper-points">
+  <li><strong>Finalist</strong> at 2023 INFORMS Service Science Student Competition.</li>
+  <li><strong>Fan Favorite Flash Talk</strong> at [YinzOR 2023](https://yinzor.cmuinforms.org/).</li>
+</ul>
+</div>
 
 </div>
 </li>
 
 <li>
-<div class="other-card" markdown="1">
+<div class="paper-card other-card" markdown="1">
 
-1. **Inventory Management with LLM: Automated Decision-Making for Order Timing and Quantity**  
-   **Mo Liu**, Yumo Bai, Meng Qi, Zuo-Jun Max Shen. _Major Revision at Service Science._  [\[SSRN\]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3888897)
+<div class="paper-title">
+<strong><span class="paper-title-text">Inventory Management with LLM: Automated Decision-Making for Order Timing and Quantity</span></strong>  
+</div>
+
+<div class="paper-meta" markdown="1">
+**Mo Liu**, Yumo Bai, Meng Qi, Zuo-Jun Max Shen. _Major Revision at Service Science._  [\[SSRN\]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3888897)
+</div>
 
 </div>
 </li>
 
 <li>
-<div class="other-card" markdown="1">
+<div class="paper-card other-card" markdown="1">
 
-1. **A Re-solving Heuristic for Dynamic Assortment Optimization with Knapsack Constraints**  
-   Xi Chen, **Mo Liu**, Yining Wang, Yuan Zhou. _Accepted by Production and Operations Management._  [\[arXiv\]](https://arxiv.org/pdf/2407.05564)
+<div class="paper-title">
+<strong><span class="paper-title-text">A Re-solving Heuristic for Dynamic Assortment Optimization with Knapsack Constraints</span></strong>  
+</div>
+
+<div class="paper-meta" markdown="1">
+Xi Chen, **Mo Liu**, Yining Wang, Yuan Zhou. _Accepted by Production and Operations Management._  [\[arXiv\]](https://arxiv.org/pdf/2407.05564)
+</div>
 
 </div>
 </li>
