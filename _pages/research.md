@@ -176,7 +176,7 @@ My research focuses on **decision-focused methods for stochastic optimization**.
 
 Many of my papers can be viewed as a sequence of **“STOP” messages** to the traditional predict-then-optimize paradigm.
 
-For a broader overview, see my tutorial: [**Decision-Focused Learning: When and Why Traditional Prediction Models Fail**](https://arxiv.org/abs/2606.21773).
+For a broader overview, see my 2026 INFORMS tutorial: [**Decision-Focused Learning: When and Why Traditional Prediction Models Fail**](https://arxiv.org/abs/2606.21773).
 </div>
 
 <ol class="paper-list">
@@ -193,7 +193,7 @@ Beichen Wan, **Mo Liu**. _Accepted by ICML 2026._ [\[arXiv\]](https://arxiv.org/
 </div>
 
 <ul class="stop-list">
-  <li><span class="stop-quote">"STOP" using the original dataset for training in the predict-then-optimize.</strong>.</span></li>
+  <li><span class="stop-quote">"STOP" using the original dataset for training in the predict-then-optimize.</span></li>
 </ul>
 
 <div class="paper-explain" markdown="1">
@@ -306,7 +306,7 @@ Traditional uncertainty quantification is often **decision-blind**. We introduce
 </div>
 
 <div class="paper-meta" markdown="1">
-**Mo Liu**, Junyu Cao, Zuo-Jun Max Shen. _Resubmitted to Management Science._  [\[SSRN\]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4487888)  [\[Slides\]](https://moliu15.github.io/files/INFORMS_value_of_information.pdf)
+**Mo Liu**, Junyu Cao, Zuo-Jun Max Shen. _working paper._  [\[SSRN\]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4487888)  [\[Slides\]](https://moliu15.github.io/files/INFORMS_value_of_information.pdf)
 </div>
 
 <ul class="stop-list">
