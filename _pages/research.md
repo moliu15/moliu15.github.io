@@ -408,7 +408,7 @@ Guokai Li, Alys Liang, **Mo Liu**, Murray Lei, Stefanus Jasin, Fenghua Yang, Pre
 </div>
 
 <div class="paper-meta" markdown="1">
-**Mo Liu**, Yumo Bai, Meng Qi, Zuo-Jun Max Shen. _Major Revision at Service Science._  [\[SSRN\]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3888897)
+**Mo Liu**, Yumo Bai, Meng Qi, Zuo-Jun Max Shen. _Accepted by Service Science._  [\[SSRN\]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3888897)
 </div>
 
 </div>
