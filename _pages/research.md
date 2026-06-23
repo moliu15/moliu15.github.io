@@ -38,13 +38,11 @@ mathjax: true
 
 .paper-list{
   list-style: none;
-  counter-reset: paper;
   padding-left: 0;
   margin: 1.25rem 0 0;
 }
 
 .paper-list > li{
-  counter-increment: paper;
   margin: 0 0 1.05rem;
 }
 
@@ -58,25 +56,8 @@ mathjax: true
   overflow: hidden;
 }
 
-.paper-card::before{
-  content: counter(paper);
-  position: absolute;
-  top: 14px;
-  right: 16px;
-  width: 38px;
-  height: 38px;
-  display: grid;
-  place-items: center;
-  border-radius: 999px;
-  font-weight: 800;
-  font-size: 0.95rem;
-  color: white;
-  background: linear-gradient(135deg, var(--paper-accent), var(--paper-accent-2));
-  box-shadow: 0 10px 20px rgba(59,130,246,.25);
-}
-
 .paper-title{
-  margin: 0.1rem 3.1rem 0.25rem 0; /* leave room for number badge */
+  margin: 0.1rem 0 0.25rem 0;
   font-size: 1.2rem;
   line-height: 1.35;
 }
@@ -167,13 +148,11 @@ mathjax: true
 
 .other-list{
   list-style: none;
-  counter-reset: other;
   padding-left: 0;
   margin: 0.8rem 0 0;
 }
 
 .other-list > li{
-  counter-increment: other;
   margin: 0 0 0.9rem;
 }
 
@@ -186,22 +165,6 @@ mathjax: true
   padding: 0.9rem 1.0rem 0.85rem 1.0rem;
 }
 
-.other-card::before{
-  content: counter(other);
-  position: absolute;
-  top: 12px;
-  right: 14px;
-  width: 34px;
-  height: 34px;
-  display: grid;
-  place-items: center;
-  border-radius: 999px;
-  font-weight: 800;
-  font-size: 0.92rem;
-  color: #111827;
-  background: rgba(17,24,39,.06);
-  border: 1px solid rgba(17,24,39,.10);
-}
 </style>
 
 <div class="research-wrap" markdown="1">
@@ -212,9 +175,39 @@ mathjax: true
 My research focuses on **decision-focused methods for stochastic optimization**. A recurring theme in my work is that **better prediction does not necessarily lead to better decisions**.
 
 Many of my papers can be viewed as a sequence of **“STOP” messages** to the traditional predict-then-optimize paradigm.
+
+For a broader overview, see my tutorial: [**Decision-Focused Learning: When and Why Traditional Prediction Models Fail**](https://arxiv.org/abs/2606.21773).
 </div>
 
 <ol class="paper-list">
+
+<li>
+<div class="paper-card" markdown="1">
+
+<div class="paper-title">
+<strong><span class="paper-title-text">A Solver-Free Training Method for Predict-then-Optimize</span></strong>  
+</div>
+
+<div class="paper-meta" markdown="1">
+Beichen Wan, **Mo Liu**. _Accepted by ICML 2026._ [\[arXiv\]](https://arxiv.org/abs/2606.19587)
+</div>
+
+<ul class="stop-list">
+  <li><span class="stop-quote">"STOP" using the original dataset for training in the predict-then-optimize.</strong>.</span></li>
+</ul>
+
+<div class="paper-explain" markdown="1">
+We introduce a measure transformation method for predict-then-optimize that preserve the fisher consistency and work with any surrogate loss.
+
+<ul class="paper-points">
+  <li>Measure transformation: Simply re-weight the data points and normalize them! </li>
+  <li>When MSE (mean squared error) loss is applied on the transformed dataset, we have the WISE (Weight-Integrated-Spherical-Error) loss. </li>
+  <li>The WISE loss is convex, continuous, and fisher consistent.</li>
+</ul>
+</div>
+
+</div>
+</li>
 
 <li>
 <div class="paper-card" markdown="1">
@@ -347,6 +340,27 @@ We study the **marginal value of adding a single data point** in personalized as
 <div class="paper-card other-card" markdown="1">
 
 <div class="paper-title">
+<strong><span class="paper-title-text">Asymptotically Optimal Sequential Testing with Heterogeneous LLMs</span></strong>  
+</div>
+
+<div class="paper-meta" markdown="1">
+Guokai Li, Alys Liang, **Mo Liu**, Murray Lei, Stefanus Jasin, Fenghua Yang, Preet Baxi. [\[arXiv\]](https://arxiv.org/abs/2604.01086)
+</div>
+
+<div class="paper-explain" markdown="1">
+<ul class="paper-points">
+  <li>Studies Bayesian sequential hypothesis testing with heterogeneous LLMs while balancing <strong>query costs</strong> and <strong>waiting costs</strong>.</li>
+  <li>As the error tolerance approaches zero, an asymptotically optimal policy uses at most <strong>two LLMs</strong>: it mixes models while the posterior is ambiguous, then switches to a specialist as confidence grows.</li>
+</ul>
+</div>
+
+</div>
+</li>
+
+<li>
+<div class="paper-card other-card" markdown="1">
+
+<div class="paper-title">
 <strong><span class="paper-title-text">Active Learning For Contextual Linear Optimization: A Margin-Based Approach</span></strong>  
 </div>
 
@@ -358,7 +372,7 @@ We study the **marginal value of adding a single data point** in personalized as
 <ul class="paper-points">
   <li>How to identify <strong>informative samples</strong> for decision-making.</li>
   <li><strong>Best Student Paper Nominee</strong> at INFORMS Workshop on Data Science 2023.</li>
-  <li><strong>Second Place Poster Prize</strong> at [YinzOR 2023](https://yinzor.cmuinforms.org/).</li>
+  <li><strong>Second Place Poster Prize</strong> at <a href="https://yinzor.cmuinforms.org/">YinzOR 2023</a>.</li>
 </ul>
 </div>
 
@@ -379,7 +393,7 @@ We study the **marginal value of adding a single data point** in personalized as
 <div class="paper-explain" markdown="1">
 <ul class="paper-points">
   <li><strong>Finalist</strong> at 2023 INFORMS Service Science Student Competition.</li>
-  <li><strong>Fan Favorite Flash Talk</strong> at [YinzOR 2023](https://yinzor.cmuinforms.org/).</li>
+  <li><strong>Fan Favorite Flash Talk</strong> at <a href="https://yinzor.cmuinforms.org/">YinzOR 2023</a>.</li>
 </ul>
 </div>
 
@@ -434,6 +448,8 @@ Zachary Xue, **Mo Liu**, Markus Ettl, Shivaram Subramanian. [ \[link\] ](https:/
 
 ## Selected Talks
 
+* Shanghai Jiao Tong Univsersity, Seminar, Marh 2026
+* Tsinghua Yau Mathematical Sciences Center, Seminar, March 2026
 * North Carolina State University, Operations Research Seminar, March 2025
 * Business Analytics, Artificial Intelligence, and Cherry Blossom Conference at JHU, March 2025
 * INFORMS Annual Meeting, 2024
